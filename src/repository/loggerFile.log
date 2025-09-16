@@ -1,0 +1,730 @@
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"A4CGPTNH171I94GF8611G4F37JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T17:05:11.109Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'IJDTD2V2BLA1MC55HA1RI2E8NJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'The provided key element does not match the schema',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T17:13:54.543Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"1R4UA2FE1RKTKCKCNRCTSF8S03VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T17:24:16.633Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'F8CKOI56RVE12F2JN4884U2E8BVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'The provided key element does not match the schema',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T17:25:36.751Z'
+}
+{
+  message: 'GET command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"LKPRCUJEGBCJIHPBGCH96UKV6NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Item":{"password":"pass1","user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","username":"user1","role":"employee"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T17:27:36.503Z'
+}
+{
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T17:54:02.213Z'
+}
+{
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T17:54:40.463Z'
+}
+{
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T17:58:33.832Z'
+}
+{
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T18:05:49.444Z'
+}
+{
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T18:08:00.485Z'
+}
+{
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T18:12:21.796Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"N7UK8DTC2LCSC6JCOTG8IIEFDJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass1","user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","username":"user1","role":"employee"}],"ScannedCount":1}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T18:15:23.069Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'I786CSDFBNKK03T5I0JLUSUPIJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid ConditionExpression: Syntax error; token: "<EOF>", near: "attribute_exists"',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T18:53:42.246Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '7L182HC2857F5LPDJC2CNJ18C3VV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Value provided in ExpressionAttributeNames unused in expressions: keys: {#edit}',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T18:54:51.237Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'FHVJF7CUU4UJGEBU8RP5HMK4MNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Value provided in ExpressionAttributeNames unused in expressions: keys: {#edit}',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T18:57:03.572Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '22LVMGFMPD8BCKP0CQRTC1580VVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Value provided in ExpressionAttributeValues unused in expressions: keys: {:attribute}',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T18:58:06.904Z'
+}
+{
+  message: 'UPDATE command completed {"$metadata":{"httpStatusCode":200,"requestId":"6BSG5GIP0S64PKP3PGN352S2ANVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"attribute":"newPass","password":"pass1","user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","username":"user1","role":"employee"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T18:58:24.507Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'Q1IM6JPCTBIJBI945DT4ND631BVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid UpdateExpression: Syntax error; token: ":attribute", near: "set :attribute ="',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T19:00:00.332Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'MSGCGJAFS67RHBC9GKHE2JDRGFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid UpdateExpression: Attribute name is a reserved keyword; reserved keyword: attribute',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T19:02:55.822Z'
+}
+{
+  message: 'UPDATE command completed {"$metadata":{"httpStatusCode":200,"requestId":"7T9G2805IJHLOUM4HJM1GF33BVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"attribute":"newPass","password":"pass1","user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","username":"user1","role":"employee"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T19:03:44.307Z'
+}
+{
+  message: 'UPDATE command completed {"$metadata":{"httpStatusCode":200,"requestId":"7PKLJV5GICUFALD8FJRFGLUHS3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"attribute":"newPass","password":"newPass","user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","username":"user1","role":"employee"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T19:05:24.219Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"DRGLO0QI5G1RA40V4RT23M4F97VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T19:14:36.306Z'
+}
+{
+  message: 'Delete command completed {"data":{"$metadata":{"httpStatusCode":200,"requestId":"QKAITQ2VRT1H1A44RPBNATFMSVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T19:14:38.074Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"JDVDILUQ4E8QMFAEIOQT7N7JS3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-12T19:15:42.209Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"8VTG4P8DQTFON14CN7NQNNFMHNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T14:41:51.629Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"AN6ACVFUGQ7579CGCOHRT4BCRJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T14:45:48.959Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"8513D6RR2UQMK0I0LIE1D8FKCFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:00:25.911Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"HD4C5PIC44K154CRK38RSEEOS7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:01:36.714Z'
+}
+{
+  name: 'SerializationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '9BU23O7DBVMTHUE08LIDQ3C9VRVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.service#SerializationException',
+  message: 'Start of structure or map found where not expected',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:02:55.414Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '1OP63THLODT3LSSTTS8MSQST6RVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid KeyConditionExpression: Syntax error; token: "-", near: "a0272efc-9971"',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:06:55.949Z'
+}
+{
+  name: 'SerializationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'FN50MF2OQKHI78OFE58K6RIPSNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.service#SerializationException',
+  message: 'Start of structure or map found where not expected',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:07:59.671Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"46U0KEP1K021ENFCA0THJCM3D7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:30:22.566Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"B39V5E1FBLGCIMFNUO57U203PFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:31:45.827Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"KBNRS2QIEKHOJLCVI5MMQM91DFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:31:45.830Z'
+}
+{
+  name: 'SerializationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'OQ61DINCOUGT4S8INST3SOE5GVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.service#SerializationException',
+  message: 'Start of structure or map found where not expected',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:32:41.435Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'VTQ3846UBRC0VNJ116FRC80DNFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid KeyConditionExpression: Syntax error; token: "<EOF>", near: "user_id"',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:34:40.464Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"2AK6AF6185ORI0UOGOKSAEBJHVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"amount":30,"ticket_id":"001","user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending"},{"amount":5.5,"ticket_id":"002","user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:37:36.107Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '9S5P1K3M6J50KCL8454D9C26D7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'ExpressionAttributeValues must not be empty',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T15:56:21.197Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'IHL5OKKQSUV5S9LIOIQMLSEN07VV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :status',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:12:42.548Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'UFHN8OJ0GIRDGH6UG59HI05H5JVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :status',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:19:24.711Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '23TVVNBU1I781TC44U5LSCM1IVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :status',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:20:17.637Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'SV6L3K4PLO40KM38FJH727P0CRVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid UpdateExpression: An expression attribute name used in the document path is not defined; attribute name: #status',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:23:55.416Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '6O2EQ0D3CE8O5N184MUK4T4I6BVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid UpdateExpression: An expression attribute name used in the document path is not defined; attribute name: #status',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:24:18.197Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'AINOGMI0EFJ2HI0J8QL76TPR3JVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'ExpressionAttributeValues must not be empty',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:28:54.724Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'P84S3I8QJNBSU7C2FKAKBOQLCBVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'ExpressionAttributeValues must not be empty',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:30:12.831Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'HCEVT973NE2QFDF42UM5BUB2CJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'ExpressionAttributeValues must not be empty',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:32:35.746Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"CGAMREL546CQCM2QPN374P585RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"amount":30,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending","ticket_id":"001"},{"amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending","ticket_id":"002"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:32:35.751Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '8IQFR26J1CVMDOSDVKUPPLJDAJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'ExpressionAttributeValues must not be empty',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:34:38.215Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'I70V9PIQ401TR0IDF80T5PV6G7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'ExpressionAttributeValues must not be empty',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:35:45.089Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"S041SU7V6FH0INJUDU7R5JL88BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":30,"ticket_id":"001","user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"denied"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:40:56.077Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'QHIFMDT7AT0TCN37U9TTUAQ4UFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T17:42:09.230Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"0QT22UJIM19HUC2QKA26RIU9PVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T18:31:12.405Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"5QU0AUA2MEVFSBTRGA6MDDDK8RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T18:35:12.768Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"V1OLRRGBRKP079596KD6I6G8CVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T18:36:27.825Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"K69SVOUJLAQM8QG0BB2JGNF0LJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T18:51:50.341Z'
+}
+{
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T18:53:37.682Z'
+}
+{
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T18:54:11.826Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"SKNPMMHBVG3TK9HDC5C142M4LRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T18:59:46.527Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"4IA2TBR1J22VA317G8GAG60TRFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-15T19:00:50.323Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '6UMHP9HA07D3BR5SDASVNO4V37VV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Invalid KeyConditionExpression: Attribute name is a reserved keyword; reserved keyword: status',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-16T04:11:47.277Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"5OF39M2L9EC363U93P92I3KP7RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-16T04:11:47.280Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'LIVAJGI8VDICPN7ROPJ9H56MVJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Query condition missed key schema element: user_id',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-16T04:12:47.249Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"P8R94VV38M80GBRU24FB8F9VHBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-16T04:12:47.359Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"HA8ACPJU53L0UEV3THR4JNV68RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-16T04:15:01.050Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'SAKBVLVHCKC2IKULMH3TFH57D7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'Query condition missed key schema element: user_id',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-16T04:15:01.465Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '9ILRJ690IVIL5DI9Q2FKCG7GVRVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'The table does not have the specified index: scan-index',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-16T04:16:40.086Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"5UPKKD51BS50AGUBFOIFREP8NNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-16T04:17:01.331Z'
+}
+{
+  '$metadata': {
+    httpStatusCode: 200,
+    requestId: 'NNAENT79NHPSKCHK93IO4C604VVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Count: 0,
+  Items: [],
+  ScannedCount: 0,
+  level: 'info',
+  message: 'GET request successful',
+  label: 'Foundations Project',
+  timestamp: '2025-09-16T04:18:13.630Z'
+}
