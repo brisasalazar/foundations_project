@@ -1,8 +1,8 @@
 // service layer 
 const ticketDAO = require('../repository/ticketDAO');
-const uuid = require('uuid');
+//const uuid = require('uuid');
 const {logger} = require("../util/logger");
-const bcrypt = require('bcrypt');
+//const bcrypt = require('bcrypt');
 
 function validateTicket(ticketInfo){
     const descriptionResult = ticketInfo.description.length > 0;

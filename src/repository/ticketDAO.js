@@ -4,7 +4,7 @@
 const { DynamoDBClient} = require("@aws-sdk/client-dynamodb");
 const { DynamoDBDocumentClient, GetCommand, PutCommand, DeleteCommand, QueryCommand, ScanCommand, UpdateCommand} = require("@aws-sdk/lib-dynamodb")
 
-const {logger} = require("../util/logger/logger");
+const {logger} = require("../util/logger");
 
 const client = new DynamoDBClient({region: "us-east-1"});
 
@@ -55,7 +55,7 @@ async function getAllUserTickets(user_id){
 }
 //getAllUserTickets("d86515fd-ca29-489b-9d18-82c099706f0c");
 
-//filter thorugh all tickets
+//filter thorugh all tickets by attribute
 async function filterByStatus(status){
     const command = new QueryCommand({
         TableName, 

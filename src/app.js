@@ -1,33 +1,38 @@
 const express = require('express');
 const app = express();
-const {logger, loggerMiddleware} = require('./util/logger');
-const {authenticateToken} = require("./util/jwt");
+const bodyParser = require("body-parser");
+const {logger} = require("./util/logger");
+const {authenticateToken} = require("./util/jwt"); 
 
 const userController = require('./controller/userController');
 const ticketController = require('./controller/ticketController');
 
 const PORT = 3000;
 
-app.use(express.json());
+function loggerMiddleware(req, res, next){
+    logger.info(`Incoming ${req.method} : ${req.url}`);
+    next();
+}
+
+app.use(bodyParser.json());
 app.use(loggerMiddleware);
 
 app.use("/users", userController);
-app.use("/tickets", ticketController);
+app.use("/tickets", ticketController);                      
 
+//restricts access to certain paths, authenticates token 
 app.get("/protected", authenticateToken, (req, res) => {
     res.json({message: "Accessed Protected Route", user: req.user});
 })
 
-// register user
-app.get("/users/register", (req, res) =>{
-    
+// check that server working 
+app.post("/", (req, res) => {
+    let data = req.body;
+    logger.info(data);
+    res.send({message: "data received"});
 })
-// login user
-// submit ticket 
-// view ticket history
-// filter tickets by status
-// edit ticket status 
 
+//listening 
 app.listen(PORT, () =>{
     console.log(`Server is listening on http://localhost:${PORT}`);
 })

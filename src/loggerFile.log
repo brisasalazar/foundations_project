@@ -1,0 +1,1310 @@
+{
+  message: 'Incoming GET : /users/a0272efc-9971-4366-ad36-092c50b0a6a4',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T20:43:05.139Z'
+}
+{
+  message: 'Incoming GET : /',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T20:48:55.876Z'
+}
+{
+  message: 'Incoming POST : /',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T20:54:03.290Z'
+}
+{
+  message: undefined,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T20:54:03.300Z'
+}
+{
+  message: 'Incoming POST : /users/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T20:54:43.078Z'
+}
+{
+  message: 'Incoming GET : /users/a0272efc-9971-4366-ad36-092c50b0a6a4',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T20:55:18.664Z'
+}
+{
+  message: 'Incoming GET : /users/a0272efc-9971-4366-ad36-092c50b0a6a4',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T20:59:33.087Z'
+}
+{
+  message: 'Incoming GET : /',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T21:03:13.744Z'
+}
+{
+  message: 'Incoming POST : /',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T21:03:20.768Z'
+}
+{
+  message: 'Incoming POST : /',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T21:03:37.693Z'
+}
+{
+  message: 'Incoming POST : /',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T21:03:56.502Z'
+}
+{
+  message: undefined,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-17T21:03:56.508Z'
+}
+{
+  message: 'Incoming POST : /register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:07:14.458Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:08:32.761Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"SAD24LMJ3BJD4UQF4OVQKTGNS7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:08:33.235Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"SAD24LMJ3BJD4UQF4OVQKTGNS7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:08:33.236Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:09:13.140Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:15:17.661Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:19:57.055Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"2SMSGS4E11VQ1UGT2KQ32G0V5NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"00d1c6d8-91ff-4e91-82cd-c626b8426ceb","password":"$2b$10$YgxMJNaugUiyEc/aUKM/JunWi1KJ/Aadlx87uHWWoDX11fwKAAzSK","username":"user4"}],"ScannedCount":3}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:19:57.356Z'
+}
+{
+  message: 'User found by username {"$metadata":{"httpStatusCode":200,"requestId":"2SMSGS4E11VQ1UGT2KQ32G0V5NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"00d1c6d8-91ff-4e91-82cd-c626b8426ceb","password":"$2b$10$YgxMJNaugUiyEc/aUKM/JunWi1KJ/Aadlx87uHWWoDX11fwKAAzSK","username":"user4"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:19:57.357Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:24:50.099Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T02:24:55.157Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:01:33.498Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"0INMFOLVUQ491AC447M7D3NBVBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:01:34.270Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"0INMFOLVUQ491AC447M7D3NBVBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:01:34.271Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:08:34.483Z'
+}
+{
+  message: 'Failed to create user, username already exists. "user1"',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:08:34.504Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"183LJILJ91MCN6GIS8840J0BNRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:08:35.010Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:12:05.876Z'
+}
+{
+  message: 'Failed to create user, username already exists. "user1"',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:12:05.896Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"JIEG4MVRC3QBE9BAIBB83G8E63VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:12:06.296Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:12:15.342Z'
+}
+{
+  message: 'Failed to create user, username already exists. "user1"',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:12:15.345Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"A17D32JF3J3SL1O2LT97GBQNLNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:12:15.416Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:19:19.385Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user1","password":"pass1"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:19:19.397Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"IOB2THS5L0GFGIKAT43JVRPRTBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:19:19.682Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:36:34.344Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user1","password":"pass1"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:36:34.355Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"BBG9B1DBK54L0UO77UCIL2M6SFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:36:34.769Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:39:20.417Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user1","password":"pass1"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:39:20.433Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"QQSHRESV1PN7LJRIKJ85BTFGQ3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass1","user_id":"70ba07a8-07c4-40de-a574-191af09f199e","username":"user1","role":"employee"}],"ScannedCount":1}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:39:21.102Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:39:28.855Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user2","password":"pass1"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:39:28.857Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"1KTL84OUBSLU6770ISNVHCRR5FVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":1}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:39:28.920Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:41:41.483Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"HMFOUGLE0LVVBCF2V9D07VNGR7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":1}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:41:41.969Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user2","password":"pass2"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:41:41.970Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:43:30.302Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"00ST45TNK2R8RC6GLO08ILFL73VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":1}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:43:30.617Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user2","password":"pass2"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:43:30.618Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:47:16.250Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"8UGJULDCL0O8PB452PDO8AN253VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":1}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:47:16.558Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"E62DRN999D5IH8C9JVBGBUEKC3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:47:16.725Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"E62DRN999D5IH8C9JVBGBUEKC3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:47:16.726Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:47:48.975Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"EOIVRM8E0LOGHMN64JS680GBCBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass2","user_id":"af55dd3e-141d-4671-a886-2d75d5ab9c56","username":"user2","role":"employee","encrypted_password":"$2b$10$crvI/Xkq.PjDlNwwVL0GqesKhDKF64jTBy.DIspRH10jTozXbuc/a"}],"ScannedCount":2}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:47:49.047Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"73MP79LS5ECHR8G3QTKE14105RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:47:49.197Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"73MP79LS5ECHR8G3QTKE14105RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:47:49.197Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:50:34.410Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"OLC742FQKV911OF46GLEUOR9IJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":1}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:50:34.713Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user2","password":"pass2"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:50:34.713Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:51:59.706Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"6P0ED53VNL97MNRT62KIGKU0UJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":1}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:51:59.983Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"VTG9E6MGBH5O37P660FHM3MTM7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:52:00.152Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"VTG9E6MGBH5O37P660FHM3MTM7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:52:00.153Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:52:06.334Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"0BOBMD6SFVPLJD9FCH77IG45PBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass2","user_id":"4442d7c8-d1f6-460c-9d23-9512c555c526","username":"user2","role":"employee","encrypted_password":"$2b$10$0CieFEXkgI25xiv5j1Nqo.cBmQF9hPVLm2nRPvRBSI6Fhtcb2.joi"}],"ScannedCount":2}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:52:06.398Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"4K89PUF5PQMQR528HB21LJFD8JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:52:06.548Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"4K89PUF5PQMQR528HB21LJFD8JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:52:06.548Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:54:44.456Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"QGN3MHT77THDEID4O2UF8DT9J7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass2","user_id":"865d335b-1dbc-40ed-b06e-614471205a49","username":"user2","role":"employee","encrypted_password":"$2b$10$VAF6YbgLSsNTfh/ZEHdAbemZGaFoqk9GcNHXlfqbOi/93rWzvzpH."}],"ScannedCount":2}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:54:44.749Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"C0RQFSHVE3FEVCMMLERBNSM4RRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:54:44.915Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"C0RQFSHVE3FEVCMMLERBNSM4RRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:54:44.916Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:58:41.068Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"FJ3TDQ9B0RLJONK5SI76762RF3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass2","user_id":"865d335b-1dbc-40ed-b06e-614471205a49","username":"user2","role":"employee","encrypted_password":"$2b$10$VAF6YbgLSsNTfh/ZEHdAbemZGaFoqk9GcNHXlfqbOi/93rWzvzpH."}],"ScannedCount":2}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:58:41.351Z'
+}
+{
+  message: 'Username found {"$metadata":{"httpStatusCode":200,"requestId":"FJ3TDQ9B0RLJONK5SI76762RF3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass2","user_id":"865d335b-1dbc-40ed-b06e-614471205a49","username":"user2","role":"employee","encrypted_password":"$2b$10$VAF6YbgLSsNTfh/ZEHdAbemZGaFoqk9GcNHXlfqbOi/93rWzvzpH."}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:58:41.352Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user2","password":"pass2"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:58:41.353Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:59:59.797Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"DFI7AC4K2BDIHICD2OPT7RC2Q7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:59:59.891Z'
+}
+{
+  message: 'Username found {"$metadata":{"httpStatusCode":200,"requestId":"DFI7AC4K2BDIHICD2OPT7RC2Q7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:59:59.891Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user3","password":"pass3"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T04:59:59.891Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:07:59.375Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"87S8OD712P1AMDANJ1EDEKJD0VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:07:59.722Z'
+}
+{
+  message: 'Username not found {"$metadata":{"httpStatusCode":200,"requestId":"87S8OD712P1AMDANJ1EDEKJD0VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:07:59.723Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"3DEPMDRAAIN7UVQ2GDU3QKD8CBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:07:59.888Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"3DEPMDRAAIN7UVQ2GDU3QKD8CBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:07:59.889Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:08:03.518Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"7LEQKJV9IL1P8N7J77N06J4B8NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":3}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:08:03.642Z'
+}
+{
+  message: 'Username found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:08:03.642Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user3","password":"pass3"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:08:03.654Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:53:59.481Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"I8VFHK9F1KCG8JVV2IRPTPDU4NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":3}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:53:59.867Z'
+}
+{
+  message: 'Username found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:53:59.867Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user3","password":"pass3"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:53:59.867Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:54:09.357Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"NMLPP6P3V2B74MSN9PHQJ63H6JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":3}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:54:09.412Z'
+}
+{
+  message: 'Username not found {"$metadata":{"httpStatusCode":200,"requestId":"NMLPP6P3V2B74MSN9PHQJ63H6JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:54:09.413Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"0A22MP8UOUJVRH505FNDN1G5Q3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:54:09.561Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"0A22MP8UOUJVRH505FNDN1G5Q3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:54:09.562Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:56:44.230Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"OO3U3SKVMCOJQ83VU59H0PLQCJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:56:44.692Z'
+}
+{
+  message: 'Username found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T05:56:44.692Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:02:07.980Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"I0CRI0PGG1SGV4MOI2V2O56TUVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:02:08.323Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:02:08.323Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:02:08.325Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:04:42.174Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"IISJFO2D9ELTEEO3MIVHJ7JEBRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:04:42.644Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:04:42.645Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:04:42.646Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:05:01.937Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"P7P58VQJFGH51AJGPBTFADRV7VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:05:02.002Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:05:02.003Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:05:02.003Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:06:01.095Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"M0N880D7GD5LL6CEOH47HPR07RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:06:01.385Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:06:01.385Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:06:01.387Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:06:12.384Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"FCGP1M3DTM8124O778VE2NIU17VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:06:12.446Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:06:12.447Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:06:12.447Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:10:29.604Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"J92G8JNMSVROAS5GBS33OQ6KABVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:10:29.967Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:10:29.968Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:11:27.909Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"EHPEIETLQSLV5388KNFERF7J4VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:11:28.173Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:11:28.173Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:12:59.361Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"A265KH1F8JT2P2MLEKRT483GF7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:12:59.756Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:12:59.756Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:13:17.324Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"GKT5T4NN2702PQK2LH8P58NC2VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:13:17.393Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:13:17.393Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:20:16.251Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"2PB88K2SJT4KVES4B4C9KJOHG3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:20:17.344Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:20:17.344Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:20:17.345Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:20:23.437Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"0TM1IORMI3N7PDMJBMOQ4H1GF7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:20:23.501Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:20:23.501Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:20:23.502Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:23:23.344Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"ULTCDE19PJO0HS5SMGTPR3C1LVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:23:23.652Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:23:23.653Z'
+}
+{
+  message: [
+    {
+      password: 'pass3',
+      user_id: 'a23ff55b-9e57-477d-a8b3-71bf793735e7',
+      username: 'user3',
+      role: 'employee',
+      encrypted_password: '$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru'
+    }
+  ],
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:23:23.654Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:23:23.654Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:25:30.652Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"20R19K8MM757G8I2PE33P191GNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:25:30.919Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:25:30.919Z'
+}
+{
+  message: [
+    {
+      password: 'pass3',
+      user_id: 'a23ff55b-9e57-477d-a8b3-71bf793735e7',
+      username: 'user3',
+      role: 'employee',
+      encrypted_password: '$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru'
+    }
+  ],
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:25:30.921Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:26:33.652Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"LAC8003LQ3UR4OJUUNR52BVB6RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:26:33.947Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:26:33.947Z'
+}
+{
+  message: [
+    {
+      password: 'pass3',
+      user_id: 'a23ff55b-9e57-477d-a8b3-71bf793735e7',
+      username: 'user3',
+      role: 'employee',
+      encrypted_password: '$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru'
+    }
+  ],
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:26:33.948Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:26:33.948Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:34:56.331Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"HVT8D8DT13B0TFFFSGNLIIBEFVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:34:56.664Z'
+}
+{
+  message: 'User found []',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:34:56.665Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user8","password":"pass8"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:34:56.666Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:36:36.952Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"FAD6LBOMOPPEIJJF9D8NJ1Q9CJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:36:37.613Z'
+}
+{
+  message: 'User not found {"$metadata":{"httpStatusCode":200,"requestId":"FAD6LBOMOPPEIJJF9D8NJ1Q9CJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:36:37.613Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"7II76ABA371OE4VO9QMPRTOQTNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:36:37.783Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"7II76ABA371OE4VO9QMPRTOQTNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:36:37.783Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:37:10.607Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"9LSRJ3FH5T6PGF2N90O3KT2G63VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:37:10.678Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:37:10.679Z'
+}
+{
+  message: [
+    {
+      password: '$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK',
+      user_id: '2cf45c74-1451-43c8-9b70-f2922f9b7f67',
+      username: 'user8',
+      role: 'employee'
+    }
+  ],
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:37:10.679Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:37:10.679Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:42:27.140Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"F5JMH2LO5A7JEN0ASNSV0V8J1VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:42:27.421Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:42:27.421Z'
+}
+{
+  message: [
+    {
+      password: '$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK',
+      user_id: '2cf45c74-1451-43c8-9b70-f2922f9b7f67',
+      username: 'user8',
+      role: 'employee'
+    }
+  ],
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:42:27.422Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:48:20.409Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"OVOQKRDL19CVR42CNEI3PO5B7NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:48:20.777Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:48:20.777Z'
+}
+{
+  message: undefined,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:48:20.778Z'
+}
+{
+  message: 'pass8',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:48:20.778Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:50:03.768Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"DUKFOVARQ91CF5MPRRR56IAJRNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:50:04.040Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:50:04.040Z'
+}
+{
+  message: undefined,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:50:04.041Z'
+}
+{
+  message: 'pass8',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:50:04.041Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:51:06.154Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"VI5BQF29L2V9F0131J8EPLDPKJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:51:06.466Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:51:06.466Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'VI5BQF29L2V9F0131J8EPLDPKJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        password: '$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK',
+        user_id: '2cf45c74-1451-43c8-9b70-f2922f9b7f67',
+        username: 'user8',
+        role: 'employee'
+      }
+    ],
+    ScannedCount: 5
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:51:06.467Z'
+}
+{
+  message: undefined,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:51:06.468Z'
+}
+{
+  message: 'pass8',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:51:06.469Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:53:57.010Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"JP68EPUNLPCPOJ0L2G2C6QV9S7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:53:57.287Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK","user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","username":"user8","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:53:57.287Z'
+}
+{
+  message: {
+    password: '$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK',
+    user_id: '2cf45c74-1451-43c8-9b70-f2922f9b7f67',
+    username: 'user8',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:53:57.288Z'
+}
+{
+  message: '$2b$10$wxyWmeCr76s.JkKTEIZLA.cExxLArrKejEDNSpijOgHopHXTO3rtK',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:53:57.289Z'
+}
+{
+  message: 'pass8',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:53:57.289Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:53:57.387Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:54:36.661Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"VCLHOJS7NIV9GR57LFF7RDOO37VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:54:36.728Z'
+}
+{
+  message: 'User found [{"password":"pass3","user_id":"a23ff55b-9e57-477d-a8b3-71bf793735e7","username":"user3","role":"employee","encrypted_password":"$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:54:36.728Z'
+}
+{
+  message: {
+    password: 'pass3',
+    user_id: 'a23ff55b-9e57-477d-a8b3-71bf793735e7',
+    username: 'user3',
+    role: 'employee',
+    encrypted_password: '$2b$10$wj7HTfxai7VGx7PcfGZUoeJ/5eetMuELV8ywJfAOwJS8JYDXzsJru'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:54:36.728Z'
+}
+{
+  message: 'pass3',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:54:36.729Z'
+}
+{
+  message: 'pass4',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:54:36.729Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-18T06:54:36.729Z'
+}

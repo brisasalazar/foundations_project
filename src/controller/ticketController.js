@@ -7,10 +7,12 @@ const uuid = require('uuid');
 const {logger} = require("../util/logger");
 const bcrypt = require('bcrypt');
 
-const {authenticateToken} = require("../util/jwt/jwt")
+const {authenticateToken} = require("../util/jwt")
+
+//TODO: follow RESTful URL namin conventions 
 
 // Submit ticket
-router.post("/submitTicket", async (req, res) => {
+router.post("/", async (req, res) => {
     const data = await userService.submitTicket(req.body);
     if (data){
         res.status(201).json({message: `Reimbursement request submitted successfully ${JSON.stringify(data)}`});
@@ -19,8 +21,8 @@ router.post("/submitTicket", async (req, res) => {
     }
 })
 
-// get all tikcets from particular user- employee role
-router.get("/ticketHistory", authenticateToken, authorizeTicketAccess, async (req, res) => {
+// get all tikcets from particular user 
+router.get("/ticket-history", authenticateToken, authorizeTicketAccess, async (req, res) => {
     const data = await ticketService.getAllUserTickets(req.body);
     if (data){
         res.status(200).json({message:`Ticket history for user ${JSON.stringify(user_id)}`});
@@ -30,7 +32,7 @@ router.get("/ticketHistory", authenticateToken, authorizeTicketAccess, async (re
 })
 
 //filter tickets by status
-router.get("/filterByStatus", authenticateToken, authorizedUser, async (req, res) => {
+router.get("/pending", authenticateToken, authorizedUser, async (req, res) => {
     const data = await ticketService.filterByStatus(req.body);
     if (data){
         res.status(200).json({message:`Filtered tickets by status ${JSON.stringify(data.status)}`});
@@ -40,7 +42,7 @@ router.get("/filterByStatus", authenticateToken, authorizedUser, async (req, res
 })
 
 // edit ticket status (only managers)
-router.put("/editStatus", authenticateToken, authorizedUser, async (req, res) => {
+router.put("/{ticket-id}", authenticateToken, authorizedUser, async (req, res) => {
     // first ensure that user role is manager (use tokens) middleware?
     let {user_id, ticket_id, status} = req.body;
     const data = await ticketService.editStatus(user_id, ticket_id, status);
@@ -54,7 +56,7 @@ router.put("/editStatus", authenticateToken, authorizedUser, async (req, res) =>
 //middleware goes here
 // func chceck if user authorized to see all ticket history
 function authorizeTicketAccess(req, res, next){
-    const requestedUserId = req.body;
+    const requestedUserId = req.body.user_id;
     const user = req.user;
     if (user.role == "manager" || user.user_id == requestedUserId){
         next();

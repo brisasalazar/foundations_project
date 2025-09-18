@@ -16,30 +16,34 @@ function validateUser(user){
 
 // register new users
 async function registerUser(user){
-    // call validate user here 
-    const saltRounds = 10;
-    if (validateUser(user)){
-        const password = await bcrypt.hash(user.password, saltRounds);
-        const data = await userDAO.postUser({
-            user_id: crypto.randomUUID(), 
-            username: user.username,
-            password, 
-            role: user.role
-        });
-        logger.info(`Creating new user: ${JSON.stringify(data)}`);
-        return data;
-    } else if (userDAO.getUserByUsername(user.username) != null){ // username exists in database
-        logger.info(`Failed to create user, username already exists.`);
+     const saltRounds = 10;
+     const username = await getUserByUsername(user.username);
+
+     if (username){
+        logger.info(`Failed to create user, username already exists. ${JSON.stringify(user)}`);
         return null;
-    } else{ // username or password empty/dont meet criteria 
-        logger.info(`Failed to validate user: ${JSON.stringify(data)}`);
-        return null;
-    }
+     } else {
+        if (validateUser(user)){
+            const password = await bcrypt.hash(user.password, saltRounds);
+            const data = await userDAO.postUser({
+                user_id: crypto.randomUUID(), 
+                username: user.username ,
+                password: password,
+                role: user.role || "employee"
+            });
+            logger.info(`Creating new user: ${JSON.stringify(data)}`);
+            return data;
+        } else{ // username or password empty/dont meet criteria 
+            logger.info(`Failed to validate user: ${JSON.stringify(data)}`);
+            return null;
+        }
+     } 
 }
-       
+
 async function loginUser(username, password){
     const user = await getUserByUsername(username);
-    if(user && (await bcrypt.compare(password, user.password))){
+    const passwordMatch = await bcrypt.compare(password, user.password);
+    if(user.username && passwordMatch){
         logger.info(`User logged in successfully`)
         return user;
     }else{
@@ -51,28 +55,28 @@ async function loginUser(username, password){
 async function getUserByUsername(username){
     if (username){ //username not empty
         const data = await userDAO.getUserByUsername(username);
-        if (data){
-            logger.info(`User found by username ${JSON.stringify(data)}`);
-            return data;
+        if (data.Count > 0){
+            logger.info(`User found ${JSON.stringify(data.Items)}`);
+            return data.Items[0];
         } else {
-            logger.info(`User not found by username ${JSON.stringify(data)}`);
+            logger.info(`User not found ${JSON.stringify(data)}`);
             return null;
         }
     }
 }
 
-async function getUserById(user_id){
-    if (user_id){
-        const data = await userDAO.getUserById(user_id);
-        if (data){
-            logger.info(`User found by user id ${JSON.stringify(data)}`);
-            return data;
-        } else {
-            logger.info(`User not found by user id ${JSON.stringify(data)}`);
-            return null;
-        }
-    }
-}
+// async function getUserById(user_id){
+//     if (user_id){
+//         const data = await userDAO.getUserById(user_id);
+//         if (data){
+//             logger.info(`User found by user id ${JSON.stringify(data)}`);
+//             return data;
+//         } else {
+//             logger.info(`User not found by user id ${JSON.stringify(data)}`);
+//             return null;
+//         }
+//     }
+// }
 
 async function editUser(user_id, attribute, edit){
     const data = await userDAO.editUser(user_id, attribute, edit);
@@ -98,4 +102,4 @@ async function deleteUserbyId(user_id){
     }
 }
 
-module.exports = {registerUser, loginUser, getUserById, getUserByUsername, editUser, deleteUserbyId};
+module.exports = {registerUser, loginUser, getUserById, editUser, deleteUserbyId};
