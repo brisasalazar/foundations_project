@@ -1,0 +1,24 @@
+{
+  message: 'Successfully submitted ticket {"ticket_id":"abc","user_id":"1","description":"Test","amount":10}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T07:27:39.296Z'
+}
+{
+  message: 'Submitted ticket history [{"ticket_id":"abc","user_id":"1"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T07:27:39.303Z'
+}
+{
+  message: 'Successfully edited ticket status {"ticket_id":"abc","status":"approved"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T07:27:39.303Z'
+}
+{
+  message: 'Tickets filtered by status [{"ticket_id":"abc","status":"pending"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T07:27:39.304Z'
+}

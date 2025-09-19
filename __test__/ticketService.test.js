@@ -1,18 +1,17 @@
 // Test Suite for Ticket Service Layer
 
-const ticketService = require('../service/ticketService');
+const ticketService = require('../src/service/ticketService');
+const ticketDAO = require('../src/repository/ticketDAO');
 
-// Mock dependencies if needed, e.g. ticketDAO
-jest.mock('../repository/ticketDAO', () => ({
+// mock the repository layer (and functions)
+jest.mock('../src/repository/ticketDAO.js', () => ({
   putTicket: jest.fn(),
   getAllUserTickets: jest.fn(),
   editStatus: jest.fn(),
   filterPending: jest.fn(),
 }));
 
-const ticketDAO = require('../repository/ticketDAO');
-
-describe('ticketService', () => {
+describe("ticketService testing", () => {
   afterEach(() => {
     jest.clearAllMocks();
   });
