@@ -7184,3 +7184,3274 @@
   label: 'Foundations Project',
   timestamp: '2025-09-19T06:58:04.019Z'
 }
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:21:28.396Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"HT4U133TR827OP933ADU7UABBFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":8}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:21:28.801Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:21:28.801Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:21:28.904Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:22:57.732Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"CV4GRQNRHO92FEAO1JJLDIDUANVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":8}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:22:58.117Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:22:58.117Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:22:58.221Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:23:43.974Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"78IA5L42UIPGM5EVKCV33J4JRJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":8}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:23:44.266Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:23:44.266Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:23:44.360Z'
+}
+{
+  message: {
+    password: '$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6',
+    user_id: '4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:23:44.361Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:18.785Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"KF94AG8SMPDFCLL4V5DKLM4I7BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":8}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:19.130Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:19.130Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:19.215Z'
+}
+{
+  message: {
+    password: '$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6',
+    user_id: '4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:19.216Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:47.683Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"54BIC9VRF26RE533HRB7K76HDJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":8}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:47.968Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:47.968Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:48.045Z'
+}
+{
+  message: {
+    password: '$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6',
+    user_id: '4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:24:48.045Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:26:49.523Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"GF5VTSEPT889GQIPR9JS9SK1T7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":8}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:26:49.815Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:26:49.816Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:26:49.911Z'
+}
+{
+  message: {
+    password: '$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6',
+    user_id: '4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:26:49.912Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:23.993Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"RK09KMHGNUK3Q6IO4OEBOE04CRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":8}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:24.058Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:24.059Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:24.142Z'
+}
+{
+  message: null,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:24.142Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:44.420Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"72Q59H6GHA9MJCBLU2PBEH3GC3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":8}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:44.486Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:44.486Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"revature","password":"pass11"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:44.486Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:57.004Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"N0N2G0QG3846UDTRV96OEC64KFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":8}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:57.066Z'
+}
+{
+  message: 'User not found {"$metadata":{"httpStatusCode":200,"requestId":"N0N2G0QG3846UDTRV96OEC64KFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":8}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:57.067Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"31SG7GSG988CJ528G2OAUSSJCFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:57.229Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"31SG7GSG988CJ528G2OAUSSJCFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:27:57.229Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:18.758Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"HA9SIAUDULGM94I01MNUALU2U7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","username":"user11","role":"employee"}],"ScannedCount":9}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:19.115Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","username":"user11","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:19.116Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user11","password":"pass11"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:19.116Z'
+}
+{
+  message: null,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:19.116Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:39.210Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"HLMML7VO5ULBPO5NA9VJFMI4URVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":9}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:39.282Z'
+}
+{
+  message: 'User not found {"$metadata":{"httpStatusCode":200,"requestId":"HLMML7VO5ULBPO5NA9VJFMI4URVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":9}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:39.283Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"ET20H19KTRRKF0OCGCGBTM269NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:39.426Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"ET20H19KTRRKF0OCGCGBTM269NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:39.427Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'ET20H19KTRRKF0OCGCGBTM269NVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    }
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:39.427Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:56.024Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"4PMQCKLSVATLL5HUT8UK9MSEUNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"007","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","submittedAt":"2025-09-16T04:15:00.531Z","status":"pending"},{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"003","amount":50,"user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","description":"Some Conference","status":"pending"},{"ticket_id":"002","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:56.290Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"4PMQCKLSVATLL5HUT8UK9MSEUNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"007","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","submittedAt":"2025-09-16T04:15:00.531Z","status":"pending"},{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"003","amount":50,"user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","description":"Some Conference","status":"pending"},{"ticket_id":"002","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:29:56.290Z'
+}
+{
+  message: 'Incoming PUT : /tickets/57758446-3e88-49e8-905f-556e4caee605/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:11.738Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: '68KG5T5AJKTVTEPG3HEV091EL7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '57758446-3e88-49e8-905f-556e4caee605',
+        amount: 15.5,
+        user_id: '4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795',
+        description: 'Some Conference',
+        submittedAt: '2025-09-19T05:57:35.050Z',
+        status: 'approved'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:11.803Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'E1IM8NE4ATJEESETB8S8FUMPCJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:11.875Z'
+}
+{
+  message: 'Unable to edit ticket status null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:11.875Z'
+}
+{
+  message: 'Incoming PUT : /tickets/007/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:35.682Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'HOIQ37GK1JHHOILBKQ1I6MTHLJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '007',
+        amount: 5.5,
+        user_id: 'd86515fd-ca29-489b-9d18-82c099706f0c',
+        description: 'Some Conference',
+        submittedAt: '2025-09-16T04:15:00.531Z',
+        status: 'pending'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:35.745Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"A44VH0A8OU1CVVGAMFP3G3LCCFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":5.5,"ticket_id":"007","user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","submittedAt":"2025-09-16T04:15:00.531Z","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:35.807Z'
+}
+{
+  message: 'Successfully edited ticket status {"$metadata":{"httpStatusCode":200,"requestId":"A44VH0A8OU1CVVGAMFP3G3LCCFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":5.5,"ticket_id":"007","user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","submittedAt":"2025-09-16T04:15:00.531Z","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:35.807Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:40.572Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"8SFTDCQ9C6ETORR5HI5QQIPNH3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"003","amount":50,"user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","description":"Some Conference","status":"pending"},{"ticket_id":"002","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:40.646Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"8SFTDCQ9C6ETORR5HI5QQIPNH3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"003","amount":50,"user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","description":"Some Conference","status":"pending"},{"ticket_id":"002","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:40.646Z'
+}
+{
+  message: 'Incoming PUT : /tickets/003/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:30:52.788Z'
+}
+{
+  message: 'Incoming PUT : /tickets/003/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:08.054Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: '9QAQKBQ5P4QM4CCQO2M96JHO1VVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '003',
+        amount: 50,
+        user_id: 'a0272efc-9971-4366-ad36-092c50b0a6a4',
+        description: 'Some Conference',
+        status: 'pending'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:08.390Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"TNR3PS23FSV2MKQDTUVR5OGDDFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":50,"ticket_id":"003","user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","description":"Some Conference","status":"denied"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:08.457Z'
+}
+{
+  message: 'Successfully edited ticket status {"$metadata":{"httpStatusCode":200,"requestId":"TNR3PS23FSV2MKQDTUVR5OGDDFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":50,"ticket_id":"003","user_id":"a0272efc-9971-4366-ad36-092c50b0a6a4","description":"Some Conference","status":"denied"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:08.458Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:14.633Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"6M0B7URUSP2L8DNILDDS5927MFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"002","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:14.695Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"6M0B7URUSP2L8DNILDDS5927MFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"002","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:14.695Z'
+}
+{
+  message: 'Incoming PUT : /tickets/002/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:30.230Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: '9DLGK8N2HU2FPV12LCKC7CJH13VV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '002',
+        amount: 5.5,
+        user_id: 'd86515fd-ca29-489b-9d18-82c099706f0c',
+        description: 'Some Conference',
+        status: 'pending'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:30.306Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"HSI1QRQI6KE2V6HJB9JDCFB3OBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":5.5,"ticket_id":"002","user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:30.378Z'
+}
+{
+  message: 'Successfully edited ticket status {"$metadata":{"httpStatusCode":200,"requestId":"HSI1QRQI6KE2V6HJB9JDCFB3OBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":5.5,"ticket_id":"002","user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:30.378Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:33.959Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"0BOL1OLNIPUVHHBRT5QMC8N3RBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:34.021Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"0BOL1OLNIPUVHHBRT5QMC8N3RBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:34.022Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:56.426Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"GT321U98OUGP9VHGIEU886N657VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","username":"user11","role":"employee"}],"ScannedCount":10}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:56.712Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","username":"user11","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:56.712Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:56.808Z'
+}
+{
+  message: {
+    password: '$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq',
+    user_id: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+    username: 'user11',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:33:56.808Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:34:19.677Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:34:42.522Z'
+}
+{
+  message: 'Failure to submit ticket. Missing amount or description. {"amount":15.5}',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:34:42.526Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:02.337Z'
+}
+{
+  message: 'Failure to submit ticket. Missing amount or description. {"description":"Some Conference"}',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:02.339Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:11.769Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"551OP8N57QPMQ07KQ2RNIBHEM7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:11.842Z'
+}
+{
+  message: 'Successfully submitted ticket {"$metadata":{"httpStatusCode":200,"requestId":"551OP8N57QPMQ07KQ2RNIBHEM7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:11.843Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:23.901Z'
+}
+{
+  message: 'Incoming PUT : /tickets/002/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:29.023Z'
+}
+{
+  message: 'Incoming PUT : /tickets/003/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:32.738Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEyZjA5YzJiLWE3MjgtNDFmNi1iMGFkLWYxMGRjYTY5MGQ3OCIsInVzZXJuYW1lIjoidXNlcjExIiwicm9sZSI6ImVtcGxveWVlIiwiaWF0IjoxNzU4Mjg4ODM2LCJleHAiOjE3NTgyODk3MzZ9.I15J7aJqOR2XbWNLZ50L121jYzV4FBjd3KUWo8KhOB8',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:40.659Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"ORILBTJ9LF0Q9NS0E1LGSFVGNFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:40.724Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"ORILBTJ9LF0Q9NS0E1LGSFVGNFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T13:35:40.724Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:00:31.274Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"GO8P5TTH1JSUJJ26CJ8MUB4A13VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":10}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:00:31.755Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:00:31.756Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:00:31.858Z'
+}
+{
+  message: {
+    password: '$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6',
+    user_id: '4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:00:31.859Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:00:39.049Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"J5F77B3PPPTA0Q0G49DCDSDI3JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:00:39.259Z'
+}
+{
+  message: 'Successfully submitted ticket {"$metadata":{"httpStatusCode":200,"requestId":"J5F77B3PPPTA0Q0G49DCDSDI3JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:00:39.260Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:03:33.632Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"5C0341DGJA4B0CA3NPI49PQ70NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":10}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:03:34.133Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:03:34.133Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:03:34.232Z'
+}
+{
+  message: {
+    password: '$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6',
+    user_id: '4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:03:34.232Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:03:42.368Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:00.228Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"BU6KJTKR59020P1PTI4ASFPQTJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","username":"user11","role":"employee"}],"ScannedCount":10}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:00.579Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","username":"user11","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:00.579Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:00.680Z'
+}
+{
+  message: {
+    password: '$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq',
+    user_id: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+    username: 'user11',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:00.681Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:07.860Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"7RPCIF5VKQ0LJS8HVKIQAQO0INVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:08.059Z'
+}
+{
+  message: 'Successfully submitted ticket {"$metadata":{"httpStatusCode":200,"requestId":"7RPCIF5VKQ0LJS8HVKIQAQO0INVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:08.060Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:53.721Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"IP8594TVQTIMM2CLLC64AL6R0BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:54.023Z'
+}
+{
+  message: 'Successfully submitted ticket {"$metadata":{"httpStatusCode":200,"requestId":"IP8594TVQTIMM2CLLC64AL6R0BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:05:54.024Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:26:44.436Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"PFJUL80704P0JJMP1CLA43V2ENVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":10}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:26:44.914Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:26:44.915Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:26:45.021Z'
+}
+{
+  message: {
+    password: '$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6',
+    user_id: '4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:26:45.021Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRlN2Y1ZmU3LTNmZjUtNGE1YS1iMWNmLTc0NTNiZmNmOTc5NSIsInVzZXJuYW1lIjoicmV2YXR1cmUiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1ODI5MjAwNSwiZXhwIjoxNzU4MjkyOTA1fQ.pwsxOJMVbOyT9RDRUcKTC94nRQgIFPDeOQyXW2S9rhI',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:26:59.935Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"8IGUH1589LI6CCRVB0C277ABCFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"amount":15.5,"ticket_id":"57758446-3e88-49e8-905f-556e4caee605","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T05:57:35.050Z","status":"approved"},{"amount":15.5,"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:27:00.255Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"8IGUH1589LI6CCRVB0C277ABCFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"amount":15.5,"ticket_id":"57758446-3e88-49e8-905f-556e4caee605","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T05:57:35.050Z","status":"approved"},{"amount":15.5,"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:27:00.257Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:27:31.354Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:50:30.674Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"05AGI9B3U7O0KVBKF44VVJAJONVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}],"ScannedCount":10}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:50:31.098Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:50:31.098Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:50:31.202Z'
+}
+{
+  message: {
+    password: '$2b$10$v2mLACdaTf4dRMgxYbV0SuOda8fevp23EtRA9RJJGjZg1BI6YiHQ6',
+    user_id: '4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:50:31.203Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:50:37.683Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"7AA02LAJBDMO2HQQU9CT4MULEFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":5,"Items":[{"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"pending"},{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":5}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:50:37.887Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"7AA02LAJBDMO2HQQU9CT4MULEFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":5,"Items":[{"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"pending"},{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":5}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:50:37.888Z'
+}
+{
+  message: 'Incoming PUT : /tickets/eac7a006-8cc6-4c29-847d-5b8f4114537e/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:51:33.186Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'PDPVSHRMHMALHN7RMAIA97BFHFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: 'eac7a006-8cc6-4c29-847d-5b8f4114537e',
+        amount: 15.5,
+        user_id: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+        description: 'Some Conference',
+        submittedAt: '2025-09-19T14:05:07.864Z',
+        status: 'pending'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:51:33.279Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"SFS3OVE0PP5VM641EKR3G23U0VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":15.5,"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"app"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:51:33.348Z'
+}
+{
+  message: 'Successfully edited ticket status {"$metadata":{"httpStatusCode":200,"requestId":"SFS3OVE0PP5VM641EKR3G23U0VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":15.5,"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"app"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:51:33.348Z'
+}
+{
+  message: 'Incoming PUT : /tickets/eac7a006-8cc6-4c29-847d-5b8f4114537e/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:51:44.295Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: '2MIT40MBUODIM6NABBJU615NBJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: 'eac7a006-8cc6-4c29-847d-5b8f4114537e',
+        amount: 15.5,
+        user_id: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+        description: 'Some Conference',
+        submittedAt: '2025-09-19T14:05:07.864Z',
+        status: 'app'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:51:44.356Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '7FMBIN9M2JKREAGINF6HSFM63FVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:51:44.417Z'
+}
+{
+  message: 'Unable to edit ticket status null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:51:44.417Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:56:28.805Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"P4E4TKEBCI2VVF0V9405LKASMNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:56:29.134Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"P4E4TKEBCI2VVF0V9405LKASMNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:56:29.134Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRlN2Y1ZmU3LTNmZjUtNGE1YS1iMWNmLTc0NTNiZmNmOTc5NSIsInVzZXJuYW1lIjoicmV2YXR1cmUiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1ODI5MzQzMSwiZXhwIjoxNzU4Mjk0MzMxfQ.r321E0DEThUhRINKMgT0F5Wu-OhARvOVntUhNl0mTKE',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:56:37.985Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"KF6E43RH9VUJONESD89TJ1ON3BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"amount":15.5,"description":"Some Conference","status":"approved","submittedAt":"2025-09-19T05:57:35.050Z","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","ticket_id":"57758446-3e88-49e8-905f-556e4caee605"},{"amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending","ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:56:38.054Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"KF6E43RH9VUJONESD89TJ1ON3BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"amount":15.5,"description":"Some Conference","status":"approved","submittedAt":"2025-09-19T05:57:35.050Z","user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","ticket_id":"57758446-3e88-49e8-905f-556e4caee605"},{"amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending","ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T14:56:38.055Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:02:27.409Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"ASAU8SINH9I4IC09JTM4U7OREBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:02:27.736Z'
+}
+{
+  message: 'User not found {"$metadata":{"httpStatusCode":200,"requestId":"ASAU8SINH9I4IC09JTM4U7OREBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:02:27.737Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:03:39.618Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"VC38TNLD09D9BRO6LVQ5POPFMRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:03:39.902Z'
+}
+{
+  message: 'User not found {"$metadata":{"httpStatusCode":200,"requestId":"VC38TNLD09D9BRO6LVQ5POPFMRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:03:39.904Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:30.525Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"TU3Q96Q840U5398AC6FAIL9TMRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:30.624Z'
+}
+{
+  message: 'User not found {"$metadata":{"httpStatusCode":200,"requestId":"TU3Q96Q840U5398AC6FAIL9TMRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:30.626Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"TTO1DR5OJ3VHGI2B56TQJTF4MFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:30.762Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"TTO1DR5OJ3VHGI2B56TQJTF4MFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:30.762Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'TTO1DR5OJ3VHGI2B56TQJTF4MFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    }
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:30.762Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:54.669Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"1CFV35K2MJKLQ963B6RASARB6NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":3}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:54.728Z'
+}
+{
+  message: 'User not found {"$metadata":{"httpStatusCode":200,"requestId":"1CFV35K2MJKLQ963B6RASARB6NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:54.728Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"3C5V7O2EO2KU2OGBR89MDQK5FVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:54.877Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"3C5V7O2EO2KU2OGBR89MDQK5FVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:54.877Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: '3C5V7O2EO2KU2OGBR89MDQK5FVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    }
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:04:54.877Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:33.030Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"DCOJP1T3OFQJU2OFDS75209IGRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","username":"user11","role":"employee"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:33.090Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$tJUc8K41zecJmt5nds08P.ZIUEa4h0wpExZv14aG8b.7wYeXfxyTq","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","username":"user11","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:33.090Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user11","password":"pass11"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:33.090Z'
+}
+{
+  message: null,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:33.090Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:56.153Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"PNTG6IDSFE15CON44TABCA3CBJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:56.218Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:56.218Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:56.312Z'
+}
+{
+  message: {
+    password: '$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW',
+    user_id: '2d6dc66f-b54f-4b69-8fc4-db1112ffd162',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:05:56.312Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:06:07.350Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"EPQ39IR1MFK33S351E8C899SPBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:06:07.611Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"EPQ39IR1MFK33S351E8C899SPBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:06:07.611Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJkNmRjNjZmLWI1NGYtNGI2OS04ZmM0LWRiMTExMmZmZDE2MiIsInVzZXJuYW1lIjoicmV2YXR1cmUiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1ODI5NDM1NiwiZXhwIjoxNzU4Mjk1MjU2fQ.Ys5YpqvdHxAoePATQT5JEd-D8F8dWYn8TRPQYbm9FL4',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:07:01.035Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"4BGOETMVRMOACNJ0V37DOESJI3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:07:01.139Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"4BGOETMVRMOACNJ0V37DOESJI3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:07:01.139Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:13:47.505Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:06.654Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"SHI7356H7MGB9MEI8LQQH2R59VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$I/ELSa1ZL4XNcC7z8Yu1x.1JbKPWTyfZs1/YhGZlq3YUOSy7RtOHS","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","username":"user64","role":"employee"}],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:06.943Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$I/ELSa1ZL4XNcC7z8Yu1x.1JbKPWTyfZs1/YhGZlq3YUOSy7RtOHS","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","username":"user64","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:06.943Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:07.037Z'
+}
+{
+  message: {
+    password: '$2b$10$I/ELSa1ZL4XNcC7z8Yu1x.1JbKPWTyfZs1/YhGZlq3YUOSy7RtOHS',
+    user_id: '10297fcf-5d2e-497d-a1ae-f1effeb6bdac',
+    username: 'user64',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:07.037Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:13.345Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"EVECTANF9BTVMQFSOEG50PDO2JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:13.555Z'
+}
+{
+  message: 'Successfully submitted ticket {"$metadata":{"httpStatusCode":200,"requestId":"EVECTANF9BTVMQFSOEG50PDO2JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:13.555Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:18.523Z'
+}
+{
+  message: 'Failure to submit ticket. Missing amount or description. {"description":"Some Conference"}',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:18.530Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:58.751Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"0DQQR63BCQVRV971TSB8CJOR5BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:58.845Z'
+}
+{
+  message: 'Successfully submitted ticket {"$metadata":{"httpStatusCode":200,"requestId":"0DQQR63BCQVRV971TSB8CJOR5BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:14:58.846Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEwMjk3ZmNmLTVkMmUtNDk3ZC1hMWFlLWYxZWZmZWI2YmRhYyIsInVzZXJuYW1lIjoidXNlcjY0Iiwicm9sZSI6ImVtcGxveWVlIiwiaWF0IjoxNzU4Mjk0ODQ3LCJleHAiOjE3NTgyOTU3NDd9.7fokRJ1vWudzCw61LSCxv14kdZIyLnOkWHHsoVQ9ngY',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:15:09.262Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"S5CU8BNABTOJCN841HH4SK3VUNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"amount":15.5,"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"amount":64.32,"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:15:09.337Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"S5CU8BNABTOJCN841HH4SK3VUNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"amount":15.5,"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"amount":64.32,"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:15:09.337Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:40.224Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"HQI0BPTLB94ISSO5D0BQMVM6LFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":4}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:40.525Z'
+}
+{
+  message: 'User not found {"$metadata":{"httpStatusCode":200,"requestId":"HQI0BPTLB94ISSO5D0BQMVM6LFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:40.525Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"SRVGHLEA98LS2CGLGEUM8U2FB7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:40.711Z'
+}
+{
+  message: 'Creating new user: {"$metadata":{"httpStatusCode":200,"requestId":"SRVGHLEA98LS2CGLGEUM8U2FB7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:40.714Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'SRVGHLEA98LS2CGLGEUM8U2FB7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    }
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:40.716Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:59.459Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"JNLH0CS8J9QMOKRVIUBE0DVU0NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:59.600Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:59.601Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user123","password":"pass11"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:59.607Z'
+}
+{
+  message: null,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:26:59.607Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:27:34.489Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"CSLGPC49RIN7Q0S9CN5R0U1K3NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:27:34.576Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:27:34.576Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:27:34.716Z'
+}
+{
+  message: {
+    password: '$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO',
+    user_id: '91fe626e-6025-47d1-b517-53d2359db9bc',
+    username: 'user123',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:27:34.716Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:28:23.182Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"IMB75PB85NG75HA22FBA5M8I9FVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:28:23.310Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:28:23.310Z'
+}
+{
+  message: 'Incorrect username or password',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:28:23.411Z'
+}
+{
+  message: null,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:28:23.412Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:28:42.335Z'
+}
+{
+  message: 'Failure to submit ticket. Missing amount or description. {"description":"Some Conference"}',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:28:42.364Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:28:53.103Z'
+}
+{
+  message: 'Failure to submit ticket. Missing amount or description. {"amount":15.5}',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:28:53.106Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:01.503Z'
+}
+{
+  message: 'PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"QEHKMRUAOOB86ILGTAII3B0UMVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:01.892Z'
+}
+{
+  message: 'Successfully submitted ticket {"$metadata":{"httpStatusCode":200,"requestId":"QEHKMRUAOOB86ILGTAII3B0UMVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:01.893Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:30.279Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:50.567Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"AC032211LMO5NR1UNKBKEGOG5RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:50.828Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:50.828Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:50.921Z'
+}
+{
+  message: {
+    password: '$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO',
+    user_id: '91fe626e-6025-47d1-b517-53d2359db9bc',
+    username: 'user123',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:50.921Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:29:58.237Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:30:05.775Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjkxZmU2MjZlLTYwMjUtNDdkMS1iNTE3LTUzZDIzNTlkYjliYyIsInVzZXJuYW1lIjoidXNlcjEyMyIsInJvbGUiOiJlbXBsb3llZSIsImlhdCI6MTc1ODI5NTc5MCwiZXhwIjoxNzU4Mjk2NjkwfQ.ZkbSuc833CFKviOtgLYuLDlGfA57RqTANOFMLpyrNMs',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:30:33.744Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"MMU940GHA1DIESTIIH8PFBMC5VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":64.32,"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"pending"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:30:33.848Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"MMU940GHA1DIESTIIH8PFBMC5VVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":64.32,"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"pending"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:30:33.848Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:30:55.514Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"6O6TE9PEDDCRDIKIIKVIJSG59RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:30:55.577Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:30:55.577Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:30:55.660Z'
+}
+{
+  message: {
+    password: '$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW',
+    user_id: '2d6dc66f-b54f-4b69-8fc4-db1112ffd162',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:30:55.660Z'
+}
+{
+  message: 'Incoming POST : /tickets/',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:05.852Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:14.475Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"79I09UEJ56J5DVOOSLD7MV3UUVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":7,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","amount":64.32,"user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"pending"},{"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","amount":64.32,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"pending"},{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":7}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:14.540Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"79I09UEJ56J5DVOOSLD7MV3UUVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":7,"Items":[{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"pending"},{"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","amount":64.32,"user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"pending"},{"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","amount":64.32,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"pending"},{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":7}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:14.541Z'
+}
+{
+  message: 'Incoming PUT : /tickets/63293685-3262-4512-b375-cec83f3a06ac/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:43.249Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'DEGGNK29I5OJTCRO7NGMDSAJRBVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '63293685-3262-4512-b375-cec83f3a06ac',
+        amount: 15.5,
+        user_id: '50e959bd-9650-4d45-8794-acfca7aa43d4',
+        description: 'Some Conference',
+        submittedAt: '2025-09-19T06:56:14.858Z',
+        status: 'pending'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:43.336Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"3HUT5SE0LRETATP87SPDGAAETFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":15.5,"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:43.395Z'
+}
+{
+  message: 'Successfully edited ticket status {"$metadata":{"httpStatusCode":200,"requestId":"3HUT5SE0LRETATP87SPDGAAETFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":15.5,"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:43.396Z'
+}
+{
+  message: 'Incoming PUT : /tickets/63293685-3262-4512-b375-cec83f3a06ac/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:56.131Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: '8OFUB16FTAMPU7TIUF5FMG4A2RVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '63293685-3262-4512-b375-cec83f3a06ac',
+        amount: 15.5,
+        user_id: '50e959bd-9650-4d45-8794-acfca7aa43d4',
+        description: 'Some Conference',
+        submittedAt: '2025-09-19T06:56:14.858Z',
+        status: 'approved'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:56.213Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '060VCV1DNL7BOQTC0I3BSJHVTVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:56.275Z'
+}
+{
+  message: 'Unable to edit ticket status null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:31:56.275Z'
+}
+{
+  message: 'Incoming PUT : /tickets/63293685-3262-4512-b375-cec83f3a06ac/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:32:08.447Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'L3QCGN755I817GPBDLFR2TTVQNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '63293685-3262-4512-b375-cec83f3a06ac',
+        amount: 15.5,
+        user_id: '50e959bd-9650-4d45-8794-acfca7aa43d4',
+        description: 'Some Conference',
+        submittedAt: '2025-09-19T06:56:14.858Z',
+        status: 'approved'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:32:08.531Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'DTOVD111QCRSFI4FV35UOIPFFVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:32:08.586Z'
+}
+{
+  message: 'Unable to edit ticket status null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:32:08.586Z'
+}
+{
+  message: 'Incoming POST : /users/register',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:47.755Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"6H5RMFBKS7ML16BHRIRO3ULI2RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:48.141Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:48.141Z'
+}
+{
+  message: 'Failed to create user, username already exists. {"username":"user123","password":"pass123"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:48.141Z'
+}
+{
+  message: null,
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:48.142Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:53.066Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"O0PAHC76LE7D88IOSE377U0DHRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:53.143Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:53.145Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:53.267Z'
+}
+{
+  message: {
+    password: '$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW',
+    user_id: '2d6dc66f-b54f-4b69-8fc4-db1112ffd162',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:53.267Z'
+}
+{
+  message: 'Incoming PUT : /tickets/63293685-3262-4512-b375-cec83f3a06ac/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:37:57.519Z'
+}
+{
+  message: 'Incoming PUT : /tickets/63293685-3262-4512-b375-cec83f3a06ac/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:38:57.629Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'P60PR2CS5KRHS5S472KO0MGPEVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '63293685-3262-4512-b375-cec83f3a06ac',
+        amount: 15.5,
+        user_id: '50e959bd-9650-4d45-8794-acfca7aa43d4',
+        description: 'Some Conference',
+        submittedAt: '2025-09-19T06:56:14.858Z',
+        status: 'approved'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:38:57.987Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'QUPCPPARF5HUJEGDPJKH3HKROVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:38:58.061Z'
+}
+{
+  message: 'Unable to edit ticket status null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:38:58.062Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:40:28.154Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"3LT32F603TJ2VQEFLN2C0RANR3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":6,"Items":[{"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","amount":64.32,"user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"pending"},{"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","amount":64.32,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"pending"},{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":6}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:40:28.463Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"3LT32F603TJ2VQEFLN2C0RANR3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":6,"Items":[{"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","amount":64.32,"user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"pending"},{"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","amount":64.32,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"pending"},{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":6}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:40:28.464Z'
+}
+{
+  message: 'Incoming PUT : /tickets/104d4d97-a94b-47da-a134-37bde15153bf/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:40:54.291Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'AG36RS0NDC5VA459I5NSINPHTBVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '104d4d97-a94b-47da-a134-37bde15153bf',
+        amount: 64.32,
+        user_id: '91fe626e-6025-47d1-b517-53d2359db9bc',
+        description: 'Work Trip',
+        submittedAt: '2025-09-19T15:29:01.504Z',
+        status: 'pending'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:40:54.374Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"LR50JEG0MUC2RCA7DLVOPFG2RNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":64.32,"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:40:54.449Z'
+}
+{
+  message: 'Successfully edited ticket status {"$metadata":{"httpStatusCode":200,"requestId":"LR50JEG0MUC2RCA7DLVOPFG2RNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":64.32,"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:40:54.449Z'
+}
+{
+  message: 'Incoming PUT : /tickets/003/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:02.217Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'PJ1PPUNSFLKPLK9LL0M8S7P04RVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '003',
+        amount: 50,
+        user_id: 'a0272efc-9971-4366-ad36-092c50b0a6a4',
+        description: 'Some Conference',
+        status: 'denied'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:02.284Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'A1NCUB2D77TLSTLQJ8QCT8045VVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:02.355Z'
+}
+{
+  message: 'Unable to edit ticket status null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:02.355Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:19.508Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"F7R4HC2ALAQGKM4UP4HM65RULBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":5,"Items":[{"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","amount":64.32,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"pending"},{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":5}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:19.566Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"F7R4HC2ALAQGKM4UP4HM65RULBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":5,"Items":[{"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","amount":64.32,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"pending"},{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":5}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:19.567Z'
+}
+{
+  message: 'Incoming PUT : /tickets/75d61a90-a1cb-4794-b7d2-ae080e9552d8/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:49.785Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'SGDOD7RVQOU3K16NH3OKE5P1AFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '75d61a90-a1cb-4794-b7d2-ae080e9552d8',
+        amount: 64.32,
+        user_id: '10297fcf-5d2e-497d-a1ae-f1effeb6bdac',
+        description: 'Work Trip',
+        submittedAt: '2025-09-19T15:14:58.771Z',
+        status: 'pending'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:49.920Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"PL9LKNOAB9HUF2F7CROI4TUB97VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":64.32,"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"denied"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:50.057Z'
+}
+{
+  message: 'Successfully edited ticket status {"$metadata":{"httpStatusCode":200,"requestId":"PL9LKNOAB9HUF2F7CROI4TUB97VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":64.32,"ticket_id":"75d61a90-a1cb-4794-b7d2-ae080e9552d8","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Work Trip","submittedAt":"2025-09-19T15:14:58.771Z","status":"denied"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:50.057Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:55.380Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"TA476INC3UGBC1QCT2S6USCOI7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:55.442Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"TA476INC3UGBC1QCT2S6USCOI7VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:41:55.442Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:42:09.509Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"RCULN95DELP9JLCMBRNI4QM7MNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:42:09.787Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:42:09.788Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:42:09.890Z'
+}
+{
+  message: {
+    password: '$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO',
+    user_id: '91fe626e-6025-47d1-b517-53d2359db9bc',
+    username: 'user123',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:42:09.890Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjkxZmU2MjZlLTYwMjUtNDdkMS1iNTE3LTUzZDIzNTlkYjliYyIsInVzZXJuYW1lIjoidXNlcjEyMyIsInJvbGUiOiJlbXBsb3llZSIsImlhdCI6MTc1ODI5NjUyOSwiZXhwIjoxNzU4Mjk3NDI5fQ.7LCm-P0zymGai0wnHgekRuroOD0O0ydlI6uC-BfLLb4',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:42:13.747Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"1KLN26DDGC7RB11003SD8G9PTRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":64.32,"description":"Work Trip","status":"approved","submittedAt":"2025-09-19T15:29:01.504Z","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:42:13.803Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"1KLN26DDGC7RB11003SD8G9PTRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":64.32,"description":"Work Trip","status":"approved","submittedAt":"2025-09-19T15:29:01.504Z","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T15:42:13.804Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:32.179Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"6VARRIHVCKM5I5GR1J3HPFTH9RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:32.539Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:32.539Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:32.640Z'
+}
+{
+  message: {
+    password: '$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO',
+    user_id: '91fe626e-6025-47d1-b517-53d2359db9bc',
+    username: 'user123',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:32.641Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:45.609Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"UQHGK62DEMAK6P299FELV88RTFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:45.671Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:45.672Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:45.772Z'
+}
+{
+  message: {
+    password: '$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW',
+    user_id: '2d6dc66f-b54f-4b69-8fc4-db1112ffd162',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:45.773Z'
+}
+{
+  message: 'Incoming PUT : /tickets/104d4d97-a94b-47da-a134-37bde15153bf/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:53.345Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'O11R70QNAOKAGI29FJ0SNOPPPJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '104d4d97-a94b-47da-a134-37bde15153bf',
+        amount: 64.32,
+        user_id: '91fe626e-6025-47d1-b517-53d2359db9bc',
+        description: 'Work Trip',
+        submittedAt: '2025-09-19T15:29:01.504Z',
+        status: 'approved'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:53.583Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '1AKFII8OIVS7K8PED0MTFP2A0VVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:53.646Z'
+}
+{
+  message: 'Unable to edit ticket status null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:47:53.647Z'
+}
+{
+  message: 'Incoming PUT : /tickets/104d4d97-a94b-47da-a134-37bde15153bf/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:49:56.688Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'EGVT7UNR7TD0T625HFFT7H2QVBVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '104d4d97-a94b-47da-a134-37bde15153bf',
+        amount: 64.32,
+        user_id: '91fe626e-6025-47d1-b517-53d2359db9bc',
+        description: 'Work Trip',
+        submittedAt: '2025-09-19T15:29:01.504Z',
+        status: 'approved'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:49:57.516Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'FGU9T7G44S3C5G2VV88C0IK7DNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:49:57.581Z'
+}
+{
+  message: 'Unable to edit ticket status null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:49:57.583Z'
+}
+{
+  level: 'info',
+  message: 'data',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:49:57.584Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:24.210Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"A0RIFEH7F3DKAUP3L62FEUN6QFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:24.275Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"A0RIFEH7F3DKAUP3L62FEUN6QFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":4,"Items":[{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"pending"},{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":4}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:24.275Z'
+}
+{
+  message: 'Incoming PUT : /tickets/5c01a60b-5a8f-467a-9426-2254802951ba/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:43.955Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: '8DQG8EI7NR361B2LB65TP9CPG3VV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '5c01a60b-5a8f-467a-9426-2254802951ba',
+        amount: 15.5,
+        user_id: '10297fcf-5d2e-497d-a1ae-f1effeb6bdac',
+        description: 'Some Conference',
+        submittedAt: '2025-09-19T15:14:13.350Z',
+        status: 'pending'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:44.029Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"9II44VA5FKOPTVI09LUIOO2JF3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":15.5,"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:44.092Z'
+}
+{
+  message: 'Successfully edited ticket status {"$metadata":{"httpStatusCode":200,"requestId":"9II44VA5FKOPTVI09LUIOO2JF3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":15.5,"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"approved"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:44.092Z'
+}
+{
+  '$metadata': {
+    httpStatusCode: 200,
+    requestId: '9II44VA5FKOPTVI09LUIOO2JF3VV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Attributes: {
+    amount: 15.5,
+    ticket_id: '5c01a60b-5a8f-467a-9426-2254802951ba',
+    user_id: '10297fcf-5d2e-497d-a1ae-f1effeb6bdac',
+    description: 'Some Conference',
+    submittedAt: '2025-09-19T15:14:13.350Z',
+    status: 'approved'
+  },
+  level: 'info',
+  message: 'data',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:44.092Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:54.736Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"4LFBR2IFCVOOHTLLBPL0SVJ9SJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:54.801Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"4LFBR2IFCVOOHTLLBPL0SVJ9SJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:51:54.801Z'
+}
+{
+  message: 'Incoming PUT : /tickets/d7c40663-d0f0-43a1-a8f3-3fe4b8993664/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:52:26.880Z'
+}
+{
+  message: 'Incoming PUT : /tickets/75d61a90-a1cb-4794-b7d2-ae080e9552d8/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:52:54.045Z'
+}
+{
+  message: 'Incoming PUT : /tickets/75d61a90-a1cb-4794-b7d2-ae080e9552d8/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:53:29.069Z'
+}
+{
+  message: 'Incoming PUT : /tickets/75d61a90-a1cb-4794-b7d2-ae080e9552d8/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:53:52.631Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: 'EISRV2VNQ4VDQJ4CM3G2SJOCE7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: '75d61a90-a1cb-4794-b7d2-ae080e9552d8',
+        amount: 64.32,
+        user_id: '10297fcf-5d2e-497d-a1ae-f1effeb6bdac',
+        description: 'Work Trip',
+        submittedAt: '2025-09-19T15:14:58.771Z',
+        status: 'denied'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:53:52.913Z'
+}
+{
+  name: 'ConditionalCheckFailedException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'M0ISVDONPBA5VLT87RLOG7Q7FFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Item: undefined,
+  __type: 'com.amazonaws.dynamodb.v20120810#ConditionalCheckFailedException',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:53:52.975Z'
+}
+{
+  message: 'Unable to edit ticket status null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:53:52.976Z'
+}
+{
+  level: 'info',
+  message: 'data',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:53:52.976Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:18.686Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"FGEGBL9U9UB5K35J1DGEUUBRHBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:18.751Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"FGEGBL9U9UB5K35J1DGEUUBRHBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"pending"},{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:18.751Z'
+}
+{
+  message: 'Incoming PUT : /tickets/d7c40663-d0f0-43a1-a8f3-3fe4b8993664/status',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:45.847Z'
+}
+{
+  message: {
+    '$metadata': {
+      httpStatusCode: 200,
+      requestId: '00828HFHA84QM0N7C2KK2UO26RVV4KQNSO5AEMVJF66Q9ASUAAJG',
+      extendedRequestId: undefined,
+      cfId: undefined,
+      attempts: 1,
+      totalRetryDelay: 0
+    },
+    Count: 1,
+    Items: [
+      {
+        ticket_id: 'd7c40663-d0f0-43a1-a8f3-3fe4b8993664',
+        amount: 15.5,
+        user_id: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+        description: 'Some Conference',
+        submittedAt: '2025-09-19T13:35:11.771Z',
+        status: 'pending'
+      }
+    ],
+    ScannedCount: 1
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:45.914Z'
+}
+{
+  message: 'UPDATE command successful {"$metadata":{"httpStatusCode":200,"requestId":"HMLUO2FM4B6NGU9LGTIL9TSQAJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:45.973Z'
+}
+{
+  message: 'Successfully edited ticket status {"$metadata":{"httpStatusCode":200,"requestId":"HMLUO2FM4B6NGU9LGTIL9TSQAJVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Attributes":{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:45.973Z'
+}
+{
+  '$metadata': {
+    httpStatusCode: 200,
+    requestId: 'HMLUO2FM4B6NGU9LGTIL9TSQAJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  Attributes: {
+    amount: 15.5,
+    ticket_id: 'd7c40663-d0f0-43a1-a8f3-3fe4b8993664',
+    user_id: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+    description: 'Some Conference',
+    submittedAt: '2025-09-19T13:35:11.771Z',
+    status: 'declined'
+  },
+  level: 'info',
+  message: 'data',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:45.974Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:51.479Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"KIB78F8258IAP81I648RG36M5NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:51.543Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"KIB78F8258IAP81I648RG36M5NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:54:51.543Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJkNmRjNjZmLWI1NGYtNGI2OS04ZmM0LWRiMTExMmZmZDE2MiIsInVzZXJuYW1lIjoicmV2YXR1cmUiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTc1ODMwNzY2NSwiZXhwIjoxNzU4MzA4NTY1fQ.1pNvxvvpIzhs3QhsZz81310GeZAapx36L9z3gasZmTg',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:55:00.585Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"FFAOL30CAVQ35L883OE64ILRGFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:55:00.658Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"FFAOL30CAVQ35L883OE64ILRGFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":0,"Items":[],"ScannedCount":0}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T18:55:00.658Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:47:33.828Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"UDAO8CTJOVB3BLMK58QBD2E6D3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:47:34.230Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:47:34.230Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:47:34.327Z'
+}
+{
+  message: {
+    password: '$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW',
+    user_id: '2d6dc66f-b54f-4b69-8fc4-db1112ffd162',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:47:34.327Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:49:08.105Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: '3PA7FB6COIUOFV5QKBRUKAIO67VV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'One or more parameter values were invalid: Condition parameter type does not match schema type',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:49:08.393Z'
+}
+{
+  message: 'Unabe to retrive ticket history null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:49:08.395Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:51:21.854Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"5SARKUC9BGJSCKV9SA3084K09JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:51:22.239Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:51:22.240Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:51:22.344Z'
+}
+{
+  message: {
+    password: '$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW',
+    user_id: '2d6dc66f-b54f-4b69-8fc4-db1112ffd162',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:51:22.344Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:51:45.475Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:52:17.387Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:52:54.966Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"G6LUU44K6OOPS2CQD46987S98JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:52:55.242Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"G6LUU44K6OOPS2CQD46987S98JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:52:55.242Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:53:21.074Z'
+}
+{
+  user: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  message: 'user_id',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:53:21.076Z'
+}
+{
+  name: 'ValidationException',
+  '$fault': 'client',
+  '$metadata': {
+    httpStatusCode: 400,
+    requestId: 'T2RD8PV1880MGBF8BEUL61DBHNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+    extendedRequestId: undefined,
+    cfId: undefined,
+    attempts: 1,
+    totalRetryDelay: 0
+  },
+  __type: 'com.amazon.coral.validate#ValidationException',
+  message: 'One or more parameter values were invalid: Condition parameter type does not match schema type',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:53:21.139Z'
+}
+{
+  message: 'Unabe to retrive ticket history null',
+  level: 'error',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:53:21.140Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:26.322Z'
+}
+{
+  message: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:26.349Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"6D2010IFGBF71H83UTGU5J8PEVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"amount":15.5,"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"},{"amount":15.5,"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"app"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:26.636Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"6D2010IFGBF71H83UTGU5J8PEVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"amount":15.5,"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"},{"amount":15.5,"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"app"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:26.637Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:51.211Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"J65HB1SFV3CN36H9IEU4LSHL0FVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:51.439Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:51.440Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:51.540Z'
+}
+{
+  message: {
+    password: '$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO',
+    user_id: '91fe626e-6025-47d1-b517-53d2359db9bc',
+    username: 'user123',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:51.540Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:55.983Z'
+}
+{
+  message: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:55.986Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"LTIM23RALAHTPLUDHJDV01GBDFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"amount":15.5,"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"},{"amount":15.5,"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"app"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:56.177Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"LTIM23RALAHTPLUDHJDV01GBDFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"amount":15.5,"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"},{"amount":15.5,"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"app"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:56.178Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:58.024Z'
+}
+{
+  message: 'a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:58.025Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"6JHBK6GE35ST5K1RVHH3M0G6DRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"amount":15.5,"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"},{"amount":15.5,"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"app"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:58.085Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"6JHBK6GE35ST5K1RVHH3M0G6DRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":3,"Items":[{"amount":15.5,"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"amount":15.5,"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"},{"amount":15.5,"ticket_id":"eac7a006-8cc6-4c29-847d-5b8f4114537e","user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:07.864Z","status":"app"}],"ScannedCount":3}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T19:56:58.086Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:13:56.340Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"JDCF6U1N9L6BSMDGCJ978SO71BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:13:56.694Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","username":"user123","role":"employee"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:13:56.694Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:13:56.794Z'
+}
+{
+  message: {
+    password: '$2b$10$3P1YOhnvTiKIxh4X2rbEGuqT9/LMh.e2Z2bx8.TGm/la2plFwguAO',
+    user_id: '91fe626e-6025-47d1-b517-53d2359db9bc',
+    username: 'user123',
+    role: 'employee'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:13:56.795Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=a2f09c2b-a728-41f6-b0ad-f10dca690d78',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:14:02.616Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=91fe626e-6025-47d1-b517-53d2359db9bc',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:14:48.724Z'
+}
+{
+  message: '91fe626e-6025-47d1-b517-53d2359db9bc',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:14:48.728Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"N0JHSL2H1AQDSDR64VTI7FC61JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":64.32,"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"approved"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:14:48.972Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"N0JHSL2H1AQDSDR64VTI7FC61JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":64.32,"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"approved"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:14:48.973Z'
+}
+{
+  message: 'Incoming POST : /users/login',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:17.717Z'
+}
+{
+  message: 'SCAN command to database complete {"data":{"$metadata":{"httpStatusCode":200,"requestId":"4N1TBL26GFELSLO66KKKH5G5BRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}],"ScannedCount":5}}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:17.785Z'
+}
+{
+  message: 'User found [{"password":"$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW","user_id":"2d6dc66f-b54f-4b69-8fc4-db1112ffd162","username":"revature","role":"manager"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:17.785Z'
+}
+{
+  message: 'User logged in successfully',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:17.868Z'
+}
+{
+  message: {
+    password: '$2b$10$dqCB6vtkbYxEvSf6WHeeIuLQ5mOKvu5YEAQVg0jWr9NxkazmdzItW',
+    user_id: '2d6dc66f-b54f-4b69-8fc4-db1112ffd162',
+    username: 'revature',
+    role: 'manager'
+  },
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:17.868Z'
+}
+{
+  message: 'Incoming GET : /tickets/ticket-history?user=91fe626e-6025-47d1-b517-53d2359db9bc',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:22.950Z'
+}
+{
+  message: '91fe626e-6025-47d1-b517-53d2359db9bc',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:22.952Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"1OHVKPT2S47RK4EG661MDDJ273VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":64.32,"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"approved"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:23.012Z'
+}
+{
+  message: 'Submitted ticket history {"$metadata":{"httpStatusCode":200,"requestId":"1OHVKPT2S47RK4EG661MDDJ273VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"amount":64.32,"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"approved"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:23.013Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=pending',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:42.135Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"TBDUO04EE2GQ2ENOD1A0AK5T1BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:42.208Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"TBDUO04EE2GQ2ENOD1A0AK5T1BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":2,"Items":[{"ticket_id":"d52e41da-4517-42ad-819c-fc588dbc7809","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T14:05:53.728Z","status":"pending"},{"ticket_id":"7c1aeb86-a055-447f-9f55-7735bffef02c","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T14:00:39.054Z","status":"pending"}],"ScannedCount":2}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:15:42.208Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=approved',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:16:03.576Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"0121LMHN0F761EVL8CER4OEBM3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":8,"Items":[{"ticket_id":"007","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","submittedAt":"2025-09-16T04:15:00.531Z","status":"approved"},{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"approved"},{"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","amount":64.32,"user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"approved"},{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"approved"},{"ticket_id":"002","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"approved"},{"ticket_id":"6bf838b0-9e44-4aaf-97fc-766062eb4f91","amount":45,"user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","description":"Some Conference","submittedAt":"2025-09-18T23:20:04.991Z","status":"approved"},{"ticket_id":"57758446-3e88-49e8-905f-556e4caee605","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T05:57:35.050Z","status":"approved"},{"ticket_id":"094d7880-1937-484b-8bbf-f0d266266dd5","amount":45,"user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","description":"Some Conference","submittedAt":"2025-09-18T23:24:27.283Z","status":"approved"}],"ScannedCount":8}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:16:03.693Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"0121LMHN0F761EVL8CER4OEBM3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":8,"Items":[{"ticket_id":"007","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","submittedAt":"2025-09-16T04:15:00.531Z","status":"approved"},{"ticket_id":"63293685-3262-4512-b375-cec83f3a06ac","amount":15.5,"user_id":"50e959bd-9650-4d45-8794-acfca7aa43d4","description":"Some Conference","submittedAt":"2025-09-19T06:56:14.858Z","status":"approved"},{"ticket_id":"104d4d97-a94b-47da-a134-37bde15153bf","amount":64.32,"user_id":"91fe626e-6025-47d1-b517-53d2359db9bc","description":"Work Trip","submittedAt":"2025-09-19T15:29:01.504Z","status":"approved"},{"ticket_id":"5c01a60b-5a8f-467a-9426-2254802951ba","amount":15.5,"user_id":"10297fcf-5d2e-497d-a1ae-f1effeb6bdac","description":"Some Conference","submittedAt":"2025-09-19T15:14:13.350Z","status":"approved"},{"ticket_id":"002","amount":5.5,"user_id":"d86515fd-ca29-489b-9d18-82c099706f0c","description":"Some Conference","status":"approved"},{"ticket_id":"6bf838b0-9e44-4aaf-97fc-766062eb4f91","amount":45,"user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","description":"Some Conference","submittedAt":"2025-09-18T23:20:04.991Z","status":"approved"},{"ticket_id":"57758446-3e88-49e8-905f-556e4caee605","amount":15.5,"user_id":"4e7f5fe7-3ff5-4a5a-b1cf-7453bfcf9795","description":"Some Conference","submittedAt":"2025-09-19T05:57:35.050Z","status":"approved"},{"ticket_id":"094d7880-1937-484b-8bbf-f0d266266dd5","amount":45,"user_id":"2cf45c74-1451-43c8-9b70-f2922f9b7f67","description":"Some Conference","submittedAt":"2025-09-18T23:24:27.283Z","status":"approved"}],"ScannedCount":8}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:16:03.694Z'
+}
+{
+  message: 'Incoming GET : /tickets?status=declined',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:16:20.188Z'
+}
+{
+  message: 'GET request successful {"$metadata":{"httpStatusCode":200,"requestId":"0H71NG7JJNLBLHS94I0N6EOLANVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:16:20.250Z'
+}
+{
+  message: 'Tickets filtered by status {"$metadata":{"httpStatusCode":200,"requestId":"0H71NG7JJNLBLHS94I0N6EOLANVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"ticket_id":"d7c40663-d0f0-43a1-a8f3-3fe4b8993664","amount":15.5,"user_id":"a2f09c2b-a728-41f6-b0ad-f10dca690d78","description":"Some Conference","submittedAt":"2025-09-19T13:35:11.771Z","status":"declined"}],"ScannedCount":1}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T20:16:20.251Z'
+}

@@ -46,8 +46,8 @@ async function getAllUserTickets(user_id){
 }
 
 //filter tickets by status 
-async function filterPending(status){
-    const data = await ticketDAO.filterPending(status);
+async function filterStatus(status){
+    const data = await ticketDAO.filterStatus(status);
     if (data){
         logger.info(`Tickets filtered by status ${JSON.stringify(data)}`);
         return data; 
@@ -69,4 +69,4 @@ async function filterPending(status){
     }
  }
 //
- module.exports = {submitTicket, getAllUserTickets, filterPending, editStatus}
+ module.exports = {submitTicket, getAllUserTickets, filterStatus, editStatus}

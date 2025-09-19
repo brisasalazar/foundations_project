@@ -55,7 +55,7 @@ async function getAllUserTickets(user_id){
 //getAllUserTickets("d86515fd-ca29-489b-9d18-82c099706f0c");
 
 //filter thorugh all tickets by attribute
-async function filterPending(status){
+async function filterStatus(status){
     const command = new QueryCommand({
         TableName, 
         IndexName: "status-index",
@@ -96,7 +96,7 @@ async function editStatus(ticket_id, newStatus){
     if (someData){
         const user = someData.Items[0];
         const user_id = user.user_id;
-        console.log("user_id",user_id);
+        //console.log("user_id",user_id);
         const command = new UpdateCommand({
             TableName,
             Key: {user_id, ticket_id},
@@ -123,5 +123,5 @@ async function editStatus(ticket_id, newStatus){
 //editStatus("d86515fd-ca29-489b-9d18-82c099706f0c", "001", "denied");
 
 //
-module.exports = {putTicket, getAllUserTickets, editStatus, filterPending}
+module.exports = {putTicket, getAllUserTickets, editStatus, filterStatus}
 
