@@ -4,8 +4,6 @@ const userDAO = require('../repository/userDAO');
 const bcrypt = require('bcrypt');
 const {logger} = require("../util/logger");
 
-
-// USER FUNCTIONS 
 function validateUser(user){
     // check if username and password meet correct criteria (length > 0)
     // check that username is unique 
@@ -39,7 +37,7 @@ async function registerUser(user){
         }
      } 
 }
-
+// login user
 async function loginUser(username, password){
     const user = await getUserByUsername(username);
     const passwordMatch = await bcrypt.compare(password, user.password);
@@ -65,18 +63,18 @@ async function getUserByUsername(username){
     }
 }
 
-// async function getUserById(user_id){
-//     if (user_id){
-//         const data = await userDAO.getUserById(user_id);
-//         if (data){
-//             logger.info(`User found by user id ${JSON.stringify(data)}`);
-//             return data;
-//         } else {
-//             logger.info(`User not found by user id ${JSON.stringify(data)}`);
-//             return null;
-//         }
-//     }
-// }
+async function getUserById(user_id){
+    if (user_id){
+        const data = await userDAO.getUserById(user_id);
+        if (data){
+            logger.info(`User found by user id ${JSON.stringify(data)}`);
+            return data;
+        } else {
+            logger.info(`User not found by user id ${JSON.stringify(data)}`);
+            return null;
+        }
+    }
+}
 
 async function editUser(user_id, attribute, edit){
     const data = await userDAO.editUser(user_id, attribute, edit);
@@ -102,4 +100,4 @@ async function deleteUserbyId(user_id){
     }
 }
 
-module.exports = {registerUser, loginUser, getUserById, editUser, deleteUserbyId};
+module.exports = {registerUser, loginUser, editUser, deleteUserbyId, getUserById};

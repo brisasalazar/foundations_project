@@ -34,7 +34,7 @@ async function postUser(user){
         return null;
     }
 }
-
+//
 //postUser({user_id:"a0272efc-9971-4366-ad36-092c50b0a6a4", role:"employee", username:"user1", password:"pass1"});
 
 // get user by id 

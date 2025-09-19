@@ -1,21 +1,24 @@
 // service layer 
 const ticketDAO = require('../repository/ticketDAO');
-//const uuid = require('uuid');
 const {logger} = require("../util/logger");
-//const bcrypt = require('bcrypt');
 
 function validateTicket(ticketInfo){
-    const descriptionResult = ticketInfo.description.length > 0;
-    const amountResult = ticketInfo.amount != null || ticketInfo.amount > 0;
+    const descriptionResult = ticketInfo.description != null;
+    const amountResult = ticketInfo.amount != null;
     return (descriptionResult && amountResult);
 }
 
 // submit tickets
-async function submitTicket(ticketInfo){
-    if (validateTicket){
+async function submitTicket(currUser_id, ticketInfo){
+    if (validateTicket(ticketInfo)){
+        const timestamp = new Date();
         const data = await ticketDAO.putTicket({
             ticket_id: crypto.randomUUID(), //generate random ticket id
-            ...ticketInfo
+            status: "pending",
+            user_id: currUser_id,
+            submittedAt: timestamp.toISOString(),
+            amount: ticketInfo.amount,
+            description: ticketInfo.description
         });
         if (data){
             logger.info(`Successfully submitted ticket ${JSON.stringify(data)}`);
@@ -24,7 +27,10 @@ async function submitTicket(ticketInfo){
             logger.error(`Failure to submit ticket ${JSON.stringify(data)}`);
             return null;
         }
-    } 
+    } else {
+        logger.error(`Failure to submit ticket. Missing amount or description. ${JSON.stringify(ticketInfo)}`);
+        return null;
+    }
 }
 
 // view all tickets from a certain user
@@ -40,26 +46,27 @@ async function getAllUserTickets(user_id){
 }
 
 //filter tickets by status 
-async function filterByStatus(status){
-    const data = await ticketDAO.filterByStatus(status);
+async function filterPending(status){
+    const data = await ticketDAO.filterPending(status);
     if (data){
         logger.info(`Tickets filtered by status ${JSON.stringify(data)}`);
         return data; 
     } else {
-        logger.error(`Unabe to filter tickets by status ${JSON.stringify(data)}`);
+        logger.error(`Unable to filter tickets by status ${JSON.stringify(data)}`);
         return null;
     }
 }
+
 // edit ticket status
- async function editStatus(user_id, ticket_id, newStatus){
-    const data = await ticketDAO.editStatus(user_id, ticket_id, newStatus);
+ async function editStatus(ticket_id, newStatus){
+    const data = await ticketDAO.editStatus(ticket_id, newStatus);
     if (data){
         logger.info(`Successfully edited ticket status ${JSON.stringify(data)}`);
         return data; 
     } else {
-        logger.error(`Unabe to edit ticket status ${JSON.stringify(data)}`);
+        logger.error(`Unable to edit ticket status ${data}`);
         return null;
     }
  }
-
- module.exports = {submitTicket, getAllUserTickets, filterByStatus, editStatus}
+//
+ module.exports = {submitTicket, getAllUserTickets, filterPending, editStatus}

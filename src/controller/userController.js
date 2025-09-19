@@ -25,9 +25,9 @@ function validatePostUser(req, res, next){
 router.post("/register", validatePostUser, async (req, res) => {
     const data = await userService.registerUser(req.body);
     if (data){
-        res.status(201).json({message:"User created successfully"});
+        res.status(201).json({message:"User created successfully", data:data.Attributes.role});
     } else{
-        res.status(400).json({message: "Failed to create user", data: req.body});
+        res.status(400).json({message: "Failed to create user. Username already in use.", data: req.body});
     }
 })
 
@@ -60,13 +60,15 @@ router.post("/login", async (req, res) => {
         const token = jwt.sign(
             {
                 id:data.user_id, 
-                username
+                username, 
+                role: data.role
             }, 
             secretKey, 
             {
                 expiresIn: "15m"
             }
         );
+        res.setHeader("Authorization", `Bearer ${token}`);
         res.status(200).json({message:"Login successful", token});
     } else{
         res.status(400).json({message: "Username or password incorrect", data: req.body});

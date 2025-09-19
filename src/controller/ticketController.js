@@ -3,51 +3,56 @@ const express = require('express');
 const router = express.Router();
 
 const ticketService = require('../service/ticketService');
+const userService = require("../service/userService")
 const uuid = require('uuid');
 const {logger} = require("../util/logger");
 const bcrypt = require('bcrypt');
 
-const {authenticateToken} = require("../util/jwt")
-
-//TODO: follow RESTful URL namin conventions 
+const {authenticateToken} = require("../util/jwt");
 
 // Submit ticket
-router.post("/", async (req, res) => {
-    const data = await userService.submitTicket(req.body);
+router.post("/", authenticateToken, async (req, res) => {
+    const currUser = req.user;
+    //logger.info(currUser);
+    const data = await ticketService.submitTicket(currUser.id, req.body);
     if (data){
-        res.status(201).json({message: `Reimbursement request submitted successfully ${JSON.stringify(data)}`});
+        res.status(201).json({message: `Reimbursement request submitted successfully.`, data: req.body});
     } else {
-        res.status(400).json({message: `Failed to submit reimbursement request ${JSON.stringify(data)}`});
+        res.status(400).json({message: `Failed to submit reimbursement request, missing fields.`, data:req.body});
     }
 })
 
-// get all tikcets from particular user 
+// get all tickets from particular user aka tickey history 
 router.get("/ticket-history", authenticateToken, authorizeTicketAccess, async (req, res) => {
-    const data = await ticketService.getAllUserTickets(req.body);
+    const currUser = req.user;
+    const data = await ticketService.getAllUserTickets(currUser.id);
     if (data){
-        res.status(200).json({message:`Ticket history for user ${JSON.stringify(user_id)}`});
+        res.status(200).json({message:`Ticket history for ${currUser.username}`, data:data.Items});
     } else{
-        res.status(400).json({message:`Unable to retrive ticket history for user ${JSON.stringify(user_id)}`});
+        res.status(400).json({message:`Unable to retrive ticket history for user ${currUser.username}`});
     }
 })
 
-//filter tickets by status
-router.get("/pending", authenticateToken, authorizedUser, async (req, res) => {
-    const data = await ticketService.filterByStatus(req.body);
+//viwe all pending tickets
+router.get("/", authenticateToken, authorizedUser, async (req, res) => {
+    const status = req.query.status;
+    const data = await ticketService.filterPending(status);
     if (data){
-        res.status(200).json({message:`Filtered tickets by status ${JSON.stringify(data.status)}`});
+        res.status(200).json({message:`Filtered ${status} tickets. There are ${data.Count} ${status} tickets.`, data:data.Items});
     } else{
-        res.status(400).json({message:`Unable to filter tickets by status ${JSON.stringify(data.status)}`});
+        res.status(400).json({message:`Unable to filter ${status} tickets.`});
     }
 })
 
 // edit ticket status (only managers)
-router.put("/{ticket-id}", authenticateToken, authorizedUser, async (req, res) => {
+router.put("/:ticket_id/status", authenticateToken, authorizedUser, async (req, res) => {
     // first ensure that user role is manager (use tokens) middleware?
-    let {user_id, ticket_id, status} = req.body;
-    const data = await ticketService.editStatus(user_id, ticket_id, status);
+    const {status} = req.body;
+    const {ticket_id} = req.params;
+
+    const data = await ticketService.editStatus(ticket_id, status);
     if (data){
-        res.status(200).json({message: "Ticket status updated", data});
+        res.status(200).json({message: "Ticket status updated", data:data.Attributes});
     } else {
         res.status(400).json({message: "Failure to update ticket status", data});
     }
@@ -56,23 +61,22 @@ router.put("/{ticket-id}", authenticateToken, authorizedUser, async (req, res) =
 //middleware goes here
 // func chceck if user authorized to see all ticket history
 function authorizeTicketAccess(req, res, next){
-    const requestedUserId = req.body.user_id;
     const user = req.user;
-    if (user.role == "manager" || user.user_id == requestedUserId){
+    const requestedUserId = user.id;
+    if (user.role == "manager" || user.id == requestedUserId){
         next();
     } else {
         return res.status(403).json({message:"Action not permitted. User does not have necesary permissions.", data: user.role})
     }
 }
-// func check if user authorized to edit status 
+// func check if user authorized to edit/filter by status 
 function authorizedUser(req, res, next){
-    const user = req.body;
+    const user = req.user;
     if (user.role == "manager"){
         next();
     } else {
-        res.status(400).json({message:"Action not permitted. User does not have necessary permissions.", data: user.role})
+        res.status(403).json({message:"Action not permitted. User does not have necessary permissions.", data: user.role})
     }
 }
 
-// TODO: implemetn view tickets restriction, a user cna only view their own ticket history. a manger can look at any and all employee ticket history
 module.exports = router;

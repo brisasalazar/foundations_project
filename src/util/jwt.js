@@ -6,8 +6,10 @@ const secretKey = "my-secret-key";
 async function authenticateToken(req, res, next){
     // Authorization: "Bearer tokenstring"
 
-    const authHeader = req.headers["Authorization"];
+    const authHeader = req.headers["authorization"];
+    //logger.info(authHeader);
     const token = authHeader && authHeader.split(" ")[1];
+    //logger.info(token);
 
     if(!token){
         res.status(400).json({message: "forbidden access"});
@@ -26,7 +28,7 @@ async function decodeJWT(token){
     try{
         const user = await jwt.verify(token, secretKey);
         return user;
-    }catch(error){
+    }catch(err){
         logger.error(err);
         return null;
     }
