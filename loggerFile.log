@@ -22,3 +22,207 @@
   label: 'Foundations Project',
   timestamp: '2025-09-19T07:27:39.304Z'
 }
+{
+  message: 'Successfully submitted ticket {"ticket_id":"abc","user_id":"1","description":"Test","amount":10}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:25:39.822Z'
+}
+{
+  message: 'Submitted ticket history [{"ticket_id":"abc","user_id":"1"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:25:39.831Z'
+}
+{
+  message: 'Successfully edited ticket status {"ticket_id":"abc","status":"approved"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:25:39.832Z'
+}
+{
+  message: 'Tickets filtered by status [{"ticket_id":"abc","status":"pending"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:25:39.833Z'
+}
+{
+  message: 'Successfully submitted ticket {"ticket_id":"abc","user_id":"1","description":"Test","amount":10}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:30:29.513Z'
+}
+{
+  message: 'User not found {"user_id":"1","username":"user1","password":"pass1","token":"someToken","role":"employee"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:30:29.646Z'
+}
+{
+  message: 'Submitted ticket history [{"ticket_id":"abc","user_id":"1"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:30:29.523Z'
+}
+{
+  message: 'Successfully edited ticket status {"ticket_id":"abc","status":"approved"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:30:29.524Z'
+}
+{
+  message: 'Tickets filtered by status [{"ticket_id":"abc","status":"pending"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:30:29.525Z'
+}
+{
+  message: 'Successfully submitted ticket {"ticket_id":"abc","user_id":"1","description":"Test","amount":10}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:32:36.708Z'
+}
+{
+  message: 'User not found {"username":"user1"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:32:36.840Z'
+}
+{
+  message: 'Submitted ticket history [{"ticket_id":"abc","user_id":"1"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:32:36.718Z'
+}
+{
+  message: 'Successfully edited ticket status {"ticket_id":"abc","status":"approved"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:32:36.719Z'
+}
+{
+  message: 'Tickets filtered by status [{"ticket_id":"abc","status":"pending"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:32:36.721Z'
+}
+{
+  message: 'Successfully submitted ticket {"ticket_id":"abc","user_id":"1","description":"Test","amount":10}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:37:42.046Z'
+}
+{
+  message: 'User not found {"username":"user1"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:37:42.188Z'
+}
+{
+  message: 'Submitted ticket history [{"ticket_id":"abc","user_id":"1"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:37:42.057Z'
+}
+{
+  message: 'Successfully edited ticket status {"ticket_id":"abc","status":"approved"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:37:42.058Z'
+}
+{
+  message: 'Tickets filtered by status [{"ticket_id":"abc","status":"pending"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:37:42.059Z'
+}
+{
+  message: 'User not found {"user_id":1,"username":"user1","password":"pass1","role":"employee"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:19.230Z'
+}
+{
+  message: 'Successfully submitted ticket {"ticket_id":"abc","user_id":"1","description":"Test","amount":10}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:19.083Z'
+}
+{
+  message: 'Submitted ticket history [{"ticket_id":"abc","user_id":"1"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:19.096Z'
+}
+{
+  message: 'Successfully edited ticket status {"ticket_id":"abc","status":"approved"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:19.097Z'
+}
+{
+  message: 'Tickets filtered by status [{"ticket_id":"abc","status":"pending"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:19.098Z'
+}
+{
+  message: 'Successfully submitted ticket {"ticket_id":"abc","user_id":"1","description":"Test","amount":10}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:58.743Z'
+}
+{
+  message: 'User not found {"user_id":1,"username":"user1","password":"pass1","role":"employee"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:58.884Z'
+}
+{
+  message: 'Submitted ticket history [{"ticket_id":"abc","user_id":"1"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:58.755Z'
+}
+{
+  message: 'Successfully edited ticket status {"ticket_id":"abc","status":"approved"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:58.755Z'
+}
+{
+  message: 'Tickets filtered by status [{"ticket_id":"abc","status":"pending"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:54:58.756Z'
+}
+{
+  message: 'User not found {"user_id":1,"username":"user1","password":"pass1","role":"employee"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:55:11.259Z'
+}
+{
+  message: 'Successfully submitted ticket {"ticket_id":"abc","user_id":"1","description":"Test","amount":10}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:55:11.092Z'
+}
+{
+  message: 'Submitted ticket history [{"ticket_id":"abc","user_id":"1"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:55:11.105Z'
+}
+{
+  message: 'Successfully edited ticket status {"ticket_id":"abc","status":"approved"}',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:55:11.109Z'
+}
+{
+  message: 'Tickets filtered by status [{"ticket_id":"abc","status":"pending"}]',
+  level: 'info',
+  label: 'Foundations Project',
+  timestamp: '2025-09-19T12:55:11.110Z'
+}
